@@ -245,6 +245,8 @@ Singleton.h
 /root/linux/myLinux/myWebServer/Singleton.h
 AsyncLogging.h
 /root/linux/myLinux/myWebServer/AsyncLogging.h
+mysql/mysql.h
+-
 EventLoop.h
 /root/linux/myLinux/myWebServer/EventLoop.h
 Server.h
