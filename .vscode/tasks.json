@@ -1,0 +1,30 @@
+{
+    "version": "2.0.0",
+    "options": {
+        "cwd": "${workspaceRoot}/build"
+    },//这个要加上，否则编译出问题
+    "tasks": [
+        {
+            "label": "cmake",
+            "type": "shell",
+            "command": "cmake",
+            "args": [
+                "-G",
+                "Unix Makefiles",
+                "-DCMAKE_BUILD_TYPE=Debug",
+                ".."
+            ]
+        },
+        {
+            "label": "make",/// 下面的make就是这里
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "type": "shell",
+            "command": "make",
+            "args": []
+        }
+        
+    ]
+}

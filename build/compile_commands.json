@@ -1,0 +1,222 @@
+[
+{
+  "directory": "/root/linux/myLinux/myWebServer/build",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/LiuServerPro.dir/main.cpp.o -c /root/linux/myLinux/myWebServer/main.cpp",
+  "file": "/root/linux/myLinux/myWebServer/main.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/AcceptChannel.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/AcceptChannel.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/AcceptChannel.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/Buffer.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/Buffer.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/Buffer.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/ConnChannel.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/ConnChannel.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/ConnChannel.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/ConnThread.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/ConnThread.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/ConnThread.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/ConnThreadPool.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/ConnThreadPool.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/ConnThreadPool.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/Epoll.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/Epoll.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/Epoll.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/EventLoop.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/EventLoop.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/EventLoop.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/HttpData.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/HttpData.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/HttpData.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/Server.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/Server.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/Server.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/SqlConnPool.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/SqlConnPool.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/SqlConnPool.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/Timer.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/Timer.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/Timer.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/Util.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/Util.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/Util.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/WakeupChannel.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/WakeupChannel.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/WakeupChannel.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/WorkThreadPool.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/WorkThreadPool.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/WorkThreadPool.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/net",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Netlib.dir/fun.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/net/fun.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/net/fun.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/AsyncLogging.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/AsyncLogging.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/AsyncLogging.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/CountDownLatch.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/CountDownLatch.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/CountDownLatch.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/FileUtil.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/FileUtil.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/FileUtil.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/LogFile.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/LogFile.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/LogFile.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/LogStream.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/LogStream.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/LogStream.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/Logging.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/Logging.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/Logging.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/MyDB.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/MyDB.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/MyDB.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/Thread.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/Thread.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/Thread.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/ThreadPool.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/ThreadPool.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/ThreadPool.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/base",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Baselib.dir/Timestamp.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/base/Timestamp.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/base/Timestamp.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/Atomic_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/Atomic_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/Atomic_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/BlockingQuene_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/BlockingQuene_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/BlockingQuene_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/BoundedBlockingQueue_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/BoundedBlockingQueue_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/BoundedBlockingQueue_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/Buffer_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/Buffer_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/Buffer_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/EvThread_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/EvThread_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/EvThread_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/EventLoop_Poller_Channel_test1.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/EventLoop_Poller_Channel_test1.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/EventLoop_Poller_Channel_test1.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/EventLoop_Poller_channel_test2.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/EventLoop_Poller_channel_test2.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/EventLoop_Poller_channel_test2.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/EventLoop_Poller_channel_test3.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/EventLoop_Poller_channel_test3.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/EventLoop_Poller_channel_test3.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/LogFile_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/LogFile_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/LogFile_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/Reactor_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/Reactor_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/Reactor_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/Singleton_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/Singleton_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/Singleton_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/ThreadLocalSingle_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/ThreadLocalSingle_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/ThreadLocalSingle_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/ThreadLocal_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/ThreadLocal_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/ThreadLocal_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/ThreadPool_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/ThreadPool_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/ThreadPool_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/Thread_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/Thread_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/Thread_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/Timestamp_test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/Timestamp_test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/Timestamp_test.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/sqlPoolTest.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/sqlPoolTest.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/sqlPoolTest.cpp"
+},
+{
+  "directory": "/root/linux/myLinux/myWebServer/build/LiuServer/test",
+  "command": "g++   -I/root/linux/myLinux/myWebServer/LiuServer -I/root/linux/myLinux/myWebServer/LiuServer/net -I/root/linux/myLinux/myWebServer/LiuServer/base -I/root/linux/myLinux/myWebServer/LiuServer/test   -g -g   -std=c++11 -std=gnu++11 -o CMakeFiles/Testlib.dir/test.cpp.o -c /root/linux/myLinux/myWebServer/LiuServer/test/test.cpp",
+  "file": "/root/linux/myLinux/myWebServer/LiuServer/test/test.cpp"
+}
+]

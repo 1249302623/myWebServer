@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.h": "cpp",
+        "*.cpp": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "thread": "cpp",
+        "string_view": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "fstream": "cpp",
+        "random": "cpp"
+    },
+    "zenMode.silentNotifications": false
+}

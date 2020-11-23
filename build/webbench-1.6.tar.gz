@@ -1,0 +1,1677 @@
+<!doctype html>
+<html lang="cs">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="robots" content="index, follow">
+	<meta name="googlebot" content="index, follow">
+	<meta name="author" content="Tiscali.cz">
+
+	
+	<title>Zprávy, Finance, Sport, Počasí - Tiscali.cz</title>
+	<meta name="subject" content="Zprávy, Finance, Sport, Počasí - Tiscali.cz">
+	
+	<meta name="description" content="Jeden z nejznámějších a nejdéle fungujících českých informačních portálů, který se vedle denního zpravodajství z domova a ze světa soustředí i na počasí, sport, programy kin a celebrity. Své místo na Tiscali.cz mají i finance, cestování, hry, horoskopy, recepty nebo auta. Velmi známý a používaný je i e-mail zdarma.">
+	<meta name="keywords" content="email, email zdarma, firmy, katalog, catalog, kategorie, podnikání, hry, počítače, zprávy, počasí, cestování, auta">
+
+	<meta property="fb:app_id" content="129867660376393" />
+	<meta property="og:title" content="Zprávy, Finance, Sport, Počasí - Tiscali.cz" />
+	<meta property="og:description" content="Jeden z nejznámějších a nejdéle fungujících českých informačních portálů, který se vedle denního zpravodajství z domova a ze světa soustředí i na počasí, sport, programy kin a celebrity. Své místo na Tiscali.cz mají i finance, cestování, hry, horoskopy, recepty nebo auta. Velmi známý a používaný je i e-mail zdarma." />
+	<meta property="og:site_name" content="Tiscali.cz" />
+	<meta property="og:url" content="https://www.tiscali.cz/" />
+	<meta property="og:type" content="website" />
+
+	<link rel="home" href="http://www.tiscali.cz" title="Tiscali.cz" />
+    
+    <script src="//assets.adobedtm.com/4beaca54604aa1db7a7d9296a08d83bee398e7fd/satelliteLib-eeb100d233714c40995d63ef0df819b09a25e92e.js"></script>
+
+	
+	<meta property="og:image" content="https://hp.timg.cz/img/logo-fb-placeholder-400x400.jpg" />
+
+	
+		
+		<link rel="shortcut icon" href="https://hp.timg.cz/img/fav/favicon.ico">
+		<link rel="icon" sizes="16x16 32x32 64x64" href="https://hp.timg.cz/img/fav/favicon.ico">
+		<link rel="icon" type="image/png" sizes="196x196" href="https://hp.timg.cz/img/fav/favicon-192.png">
+		<link rel="icon" type="image/png" sizes="160x160" href="https://hp.timg.cz/img/fav/favicon-160.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="https://hp.timg.cz/img/fav/favicon-96.png">
+		<link rel="icon" type="image/png" sizes="64x64" hlref="https://hp.timg.cz/img/fav/favicon-64.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://hp.timg.cz/img/fav/favicon-32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://hp.timg.cz/img/fav/favicon-16.png">
+		<link rel="apple-touch-icon" href="https://hp.timg.cz/img/fav/favicon-57.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://hp.timg.cz/img/fav/favicon-114.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://hp.timg.cz/img/fav/favicon-72.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://hp.timg.cz/img/fav/favicon-144.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://hp.timg.cz/img/fav/favicon-60.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://hp.timg.cz/img/fav/favicon-120.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://hp.timg.cz/img/fav/favicon-76.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://hp.timg.cz/img/fav/favicon-152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://hp.timg.cz/img/fav/favicon-180.png">
+		<meta name="msapplication-TileColor" content="#FFFFFF">
+		<meta name="msapplication-TileImage" content="https://hp.timg.cz/img/fav/favicon-144.png">
+		<meta name="msapplication-config" content="https://hp.timg.cz/img/fav/browserconfig.xml">
+	
+
+	
+
+	<link rel="stylesheet" href="https://hp.timg.cz/css/fontface.css" />
+	<link rel="stylesheet" href="https://hp.timg.cz/css/font-icons.css" />
+	<link rel="stylesheet" href="https://hp.timg.cz/css/tiscali.css?1605061396" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/mhayes-twentytwenty/1.0.0/css/twentytwenty.css" />
+	<style type="text/css">.twentytwenty-overlay:hover {background: none;}</style> <!-- hover hot-fix pro twenty -->
+	
+	<!-- (C)2000-2013 Gemius SA - gemiusAudience / tiscali.cz / Homepage -->
+	<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+		var pp_gemius_identifier = '0ruV9mbAidWwwOY7TFUs.aQ9nM96DeQPjpG4OhU6ZB..q7';
+		// lines below shouldn't be edited
+		function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+		gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+		(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0]; gt.setAttribute('async','async'); gt.setAttribute('defer','defer');
+		 gt.src='//spir.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+		//--><!]]>
+	</script>
+
+	<script src="https://hp.timg.cz/js/new-jquery-1.10.0.min.js"></script>
+
+	
+	
+
+	
+	<link rel="canonical" href="http://tiscali.cz/"/>
+
+	<link rel="alternate" type="application/rss+xml" title="Tiscali.cz" href="http://feeds.feedburner.com/tiscali?format=xml" />
+	<link rel="alternate" type="application/rss+xml" title="Tiscali.cz - zprávy" href="http://feeds.feedburner.com/tiscali-zpravy1?format=xml" />
+	<link rel="alternate" type="application/rss+xml" title="Tiscali.cz - ženy"   href="http://feeds.feedburner.com/tiscali-zeny1?format=xml" />
+	<link rel="alternate" type="application/rss+xml" title="Tiscali.cz - sport"  href="http://feeds.feedburner.com/tiscali-sport1?format=xml" />
+	<link rel="alternate" type="application/rss+xml" title="Tiscali.cz - peníze" href="http://feeds.feedburner.com/tiscali-penize1?format=xml" />
+	<link rel="alternate" type="application/rss+xml" title="Tiscali.cz - cestování" href="http://feeds.feedburner.com/tiscali-cestovani1?format=xml" />
+	<link rel="alternate" type="application/rss+xml" title="Tiscali.cz - bydlení"   href="http://feeds.feedburner.com/tiscali-bydleni1?format=xml" />
+    <meta name="seznam-wmt" content="IWl0mxU5bmVGXqza6tiiygYar1d4Phfr" />
+	<meta name="application-name" content="Tiscali.cz - homepage" />
+	<meta name="msapplication-tooltip" content="Tiscali.cz - zprávy, finance, sport, počasí" />
+	<meta name="msapplication-starturl" content="https://www.tiscali.cz/" />
+	<meta name="msapplication-navbutton-color" content="#6E5091" />
+	<meta content="name=Zkontrolovat doručenou poštu; action-uri=http://email.tiscali.cz/; icon-uri=http://hp.timg.cz/img/favicon.ico" name="msapplication-task" />
+	<meta content="name=Napsat nový e-mail; action-uri=http://email.tiscali.cz/messageCompose; icon-uri=http://hp.timg.cz/img/favicon.ico" name="msapplication-task" />
+	<meta content="name=Podívat se na počasí; action-uri=http://pocasi.tiscali.cz/; icon-uri=http://hp.timg.cz/img/favicon.ico" name="msapplication-task" />
+	<link rel="stylesheet" href="/css/gdpr.css" />
+
+	<script>
+		var cpexSkin = function () {
+		    try {
+		        var skinWrapper = top.document.getElementsByClassName("box-offer-ld-top")[0];
+		        skinWrapper.style.position = "fixed";
+		        skinWrapper.style.left = "0";
+		        skinWrapper.style.top = "0"; // lista
+		        skinWrapper.style.margin = "0"; // lista
+		        skinWrapper.style.width = "100%";
+		        skinWrapper.style.height = "100%";
+		        skinWrapper.style.zIndex = "0";
+		        skinWrapper.style.cursor = "pointer";
+
+		        // ad-wrap nema vysku takze musime odskocit
+		        var contentElement = top.document.getElementsByClassName("page-in-wrap")[0];
+		        contentElement.style.marginTop = '229px'; // 200px + lista
+		        contentElement.style.zIndex = 101;
+		        contentElement.style.position = 'relative';
+		    } catch (e) {
+		        cpexSkinObject.logError('prepare page error: ' + e);
+		    }
+
+		    return {
+		        scrollElement: top.document.body,
+		        skinWrapper: skinWrapper,
+		        contentElement: contentElement
+		    };
+		};
+	</script>
+	<script src="https://cdn.cpex.cz/skin/v2/cpex-skin.js"></script>
+
+	<script src="//cdn-a.yieldlove.com/yieldlove-bidder.js?tiscali.cz_desktop"></script>
+	<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+	<script>
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	  googletag.cmd.push(function() {
+	    googletag.pubads().disableInitialLoad();
+	    googletag.enableServices();
+	  });
+	</script>
+
+	
+
+	<script>(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[\w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";
+if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new Date).toString(36)};var A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,f){try{var k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&!a.g){var b=
+function(){D(a);l.setTimeout(function(){return E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var b=G(1,5),c=0;c<b;c++){var d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display=
+"flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var k=H(a);k.textContent=da;J(a,
+e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c<b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c;d++)e=H(a),b.appendChild(e)},G=function(a,b){return Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,
+255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var K={},L=null;var M=function(){},N="function"==typeof Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&(a.b[c]=new b(d))}return a.b[c]};
+M.prototype.h=N?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!L){L={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&(L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&
+3)<<4|t>>4;t=(t&15)<<2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var a=new ja(this.h.document,this.g);la(this.b,a);na(this)};
+var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},na=function(a){var b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);
+e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);
+
+window.__d3lUW8vwsKlB__("WyIzNTNmZDY5NDZiNTUyYzA0IixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4VTdXTy1SWElGaVhOTmFoSEE3VGNwVVRzM0RXcDhXUGFhZUJxYlJJUTZzQ1BjR3FxenVrazFuLXVzWWJiWmZBbl95a3ZvNC1xc2VNNnpvZFpfMjk4Z1x1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiTXpVelptUTJPVFEyWWpVMU1tTXdOQVx1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC8zNTNmZDY5NDZiNTUyYzA0LmpzP3VzcXBcdTAwM2RDQW8iXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVZ1BGMlF1N3pCaFo3UXcxcTVyYTU1bndxV3lvQ0NDcXlQLTVmWWVWek5uSXpXU3JrclZaYXdMdWYwWjVBYkhIRzJWZWg4eTVXN1NTcXBDQ1daP2FiXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2wvQUdTS1d4WFF4cmRBd2tJVlBQU05PY18wSThta1F4NjJyY19qMXpRdjY1VWFrRGpYbkk0YjhielZwNF9JVFpVRmRWdzIyR1c1b2JfdmFSYnNnTDMyNTIxUD9hYlx1MDAzZDJcdTAwMjZzYmZcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hXdlN5VlBiYjdwdTZYbVNGRDlIQjlsQ2hXS0VmRHJaTl9WaFZfOVZSaUpsLWVGMm9vOGltR2ZvaGdscFZRSzk0NWpJMXE0aGttaDZ2NkpOR1pyP3NiZlx1MDAzZDIiXQo=");</script>
+
+
+
+	
+	
+
+	
+	<style>.async-hide { opacity: 0 !important} </style>
+	<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+	h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+	(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+	})(window,document.documentElement,'async-hide','dataLayer',4000,
+	{'GTM-WSV6JM5':true});</script>
+	<script type="text/javascript">
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-21694383-1', 'auto');
+		ga('require', 'GTM-WSV6JM5');
+		ga('send', 'pageview');
+        </script>
+
+		<script type="text/javascript">
+			window.smartlook||(function(d) {
+				var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+				var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+				c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+			})(document);
+			smartlook('init', '52634eed626b7081066f219e0a7fcdf9aa3d6b57');
+		</script>
+
+</head>
+<body class="">
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v2.0";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	
+
+	
+	
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+/*<![CDATA[*/
+    document.write('<link id="tiscali-tb-2013" rel="stylesheet" type="text/css" media="screen" href="https://hp.timg.cz/css/tiscali-top-bar-2013.css?1605061396" />')
+/*]]>*/
+</script>
+
+
+
+<div id="tiscali-tb" style="display:none;" >
+	<div id="tiscali-top-bar-webs">
+			<ul id="tiscali-top-bar-webs-list" class="reset top-bar-pop-buttom-down" >
+			    <li class="top-bar-button-more-web" onclick="return false;">
+					<div id="tiscali-top-bar-webs-button" class="top-bar-2012-popup" >
+						<a onclick="popUps_nojq_list()" href="#">více</a>
+					</div>
+				</li>
+				<li id="tiscali-logo"><a  data-ga-action="bar" href="https://www.tiscali.cz/"><span class="tiscali-logo">Tiscali.cz</span></a></li>
+				<li><a  data-ga-action="bar" href="https://zpravy.tiscali.cz/">Zprávy</a></li>
+				<li><a  data-ga-action="bar" href="https://zeny.tiscali.cz/">Ženy</a></li>
+				<li><a  data-ga-action="bar" href="https://cestovani.tiscali.cz/">Cestování</a></li>
+				<li><a  data-ga-action="bar" href="https://games.tiscali.cz/">Games.cz</a></li>
+				<li><a  data-ga-action="bar" href="https://www.profigamers.cz/">Profigamers.cz</a></li>
+				<li><a  data-ga-action="bar" href="https://www.osobnosti.cz/">Osobnosti.cz</a></li>
+				<li><a  data-ga-action="bar" href="https://www.karaoketexty.cz/">Karaoketexty.cz</a></li>
+				<li><a  data-ga-action="bar" href="https://www.uschovna.cz/">Úschovna.cz</a></li>
+				<li><a  data-ga-action="bar" href="https://nedd.tiscali.cz/">Nedd.cz</a></li>
+				<li class="top-bar-new"><a  data-ga-action="bar" href="https://www.moulik.cz/"><span class="tb-new">Moulík.cz</span></a></li>
+				<li class="top-bar-new"><a  data-ga-action="bar" href="https://www.fights.cz/"><span class="tb-new">Fights.cz</span></a></li>
+				<li><a  data-ga-action="bar" href="https://sport.tiscali.cz/">Sport</a></li>
+				<li><a  data-ga-action="bar" href="https://dokina.tiscali.cz/">Dokina.cz</a></li>
+				<li><a  data-ga-action="bar" href="https://czhity.tiscali.cz/">CZhity.cz</a></li>
+				<li><a  data-ga-action="bar" href="https://www.nasepenize.cz/">Našepeníze.cz</a></li>
+				<li><a  data-ga-action="bar" href="https://srovnam.cz/">Srovnám.cz</a></li>
+			</ul>
+	</div>
+
+	<div id="tiscali-top-bar-right-part-wrap">
+		<div id="tiscali-top-bar-right-part">
+			
+				<div class="tiscali-tb-right-wrapper">
+					<ul class="reset">
+						<li id="top-bar-item-weather">
+							<a data-ga-action="bar" href="http://pocasi.tiscali.cz/" data-ga-action="bar">
+								<img src="https://hp.timg.cz/img/weather/bar-07-night.png" title="Zataženo" alt="Zataženo" />
+								<span class="weather">4 °C</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			
+
+
+			<div id="tiscali-top-bar-icons" class="top-bar-logged">
+				<ul class="reset">
+
+					<li style="display:none;" id="top-bar-item-message" class="osobnosti-only" title="Vzkazy"><a href="#message" data-ga-action="bar"><span class="osobnosti-message-cnt">0</span></a></li>
+					<li style="display:none;" id="top-bar-item-friends" class="osobnosti-only" title="Přátelé online"><a href="#friends" data-ga-action="bar"><span class="osobnosti-friend-cnt">0</span></a></li>
+					<li style="display:none;" id="top-bar-item-email"   class="tiscali-email-only" title="Počet nových emailů"><a href="http://email.tiscali.cz/" data-ga-action="bar"><span class="email-unread-cnt">0</span></a></li>
+				</ul>
+			</div>
+
+			<div id="tiscali-top-bar-user" class="top-bar-logged" style="display: none;">
+				<ul class="reset">
+					<li id="item-user"><span class="ubox-username"></span></li>
+					<li id="tb-user-spacer"></li>
+					<li id="tiscali-top-bar-user-button" class="top-bar-logged" style="display:none;"><span>vice</span></li>
+				</ul>
+			</div>
+			<div id="tiscali-top-bar-login" style="display: none;">
+				<ul class="reset">
+					<li id="tiscali-bar-login-link-wrapper"><a href="//login.tiscali.cz/?service=tiscali" data-ga-action="bar" class="tiscali-bar-login-link ga-click">přihlásit</a></li>
+					<li id="tiscali-bar-reg-link-wrapper"><a href="http://reg.tiscali.cz/?service=tiscali" data-ga-action="bar" class="tiscali-bar-reg-link ga-click">registrovat</a></li>
+					<li id="tiscali-bar-login-fcbk-wrapper"><a href="//login.tiscali.cz/facebook/nick" data-ga-action="bar" class="tiscali-bar-fcbk-link ga-click" title="Přihlásit se pomocí Facebook účtu">přihlásit se pomocí facebooku</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div id="top-bar-user-pop-down" style="display: none;">
+		<ul class="reset">
+			<li id="top-bar-user-pop-down-setting" style="display: none;"><a href="http://profil.osobnosti.cz/" data-ga-action="bar">profil a nastavení osobnosti.cz</a></li>
+			<li id="top-bar-user-pop-down-new-email"  style="display: none;" class="tiscali-email-only"><a href="http://email.tiscali.cz/messageCompose" data-ga-action="bar">napsat nový email</a></li>
+			<li id="top-bar-user-settings">
+				<img src="https://hp.timg.cz/img/top-bar/user-placeholder-m.png" alt="Profilový obrázek uživatele" class="top-bar-user-photo" />
+				<p><a href="http://login.tiscali.cz/nastaveni/?service=tiscali" id="tob-bar-user-menu-settings" class="tiscali-bar-setting-link ga-click" data-ga-action="bar">nastavení tiscali účtu</a></p>
+				<p><a href="http://napoveda.tiscali.cz/" data-ga-action="bar" id="tob-bar-user-menu-help">nápověda</a></p>
+			</li>
+			<li class="top-bar-no-border">
+                            <a href="//login.tiscali.cz/?service=tiscali" data-ga-action="bar" class="tiscali-bar-login-link ga-click">přihlásit jiným účtem</a>
+                            <a href="//login.tiscali.cz/logout?service=tiscali" data-ga-action="bar" class="tiscali-bar-logout-link ga-click">odhlásit</a>
+			</li>
+		</ul>
+	</div>
+
+	<div class="weatherBubble">
+		<div class="top-bar-pocasi-item">
+			
+			    <div class="top-bar-pocasi-arrow"></div>
+			    <img src="https://hp.timg.cz/img/weather/07-night.png" alt="Obrázek znázorňující stav počasí" title="Zataženo" />
+			    <p>
+				    Zataženo<br />
+				    <strong>7 °C / 4 °C</strong><br />
+				    <a data-ga-action="bar" href="http://pocasi.tiscali.cz/">Celý týden ►</a>
+			    </p>
+			
+		</div>
+	</div>
+
+</div><!-- # top-bar-wrapper-->
+
+
+<script type="text/javascript" src="https://hp.timg.cz/js/top-bar-2013.js?1605061396"></script>
+	
+	<script src="https://hp.timg.cz/js/cookies-policy.js?1605061396"></script>
+
+	<script type="text/javascript">
+		
+		TS_BAR_CONF = {
+			reloadPage	: 0,
+			service		: "tiscali",
+			checkOldSession : 0,
+			
+				URL_LOGIN	: "//login.tiscali.cz",
+				showInbox	: 1,
+				callback : function(out) {
+					$(function() {
+						try {
+							callbackHP(out)
+						}
+						catch(err){ console.log(err) }
+					})
+				},
+			
+			'':''
+		}
+
+		
+		function callbackHP(out) {
+		    if (out.status!=200 || out.data.ebox==0) {
+			$("#hp-email-login").show()
+			$("#hp-email-message").hide()
+			return
+		    }
+		    else {
+			$("#hp-email-login").hide()
+			$("#hp-email-message").show()
+		    }
+		    if (out.data.cntNewMail==0) {
+			$("#email-unread-msg").text('žádné nové emaily');
+		    }
+		    if (out.data.messageList) {
+			out.data.messageList.forEach(function(item) {
+			    var li = $('<li '+(item.read=='unread'?'class="bold"':'')+'><a href="http://email.tiscali.cz/messageDetail?messageId='+item.id+'"><span class="time"></span> <span class="from"></span><span class="subject"></span></a></li>')
+			    li.find(".subject").text(item.subject)
+			    li.find(".from").text(item.emailFromName || item.emailFrom)
+			    var date = new Date(item.timeCreate*1000);
+			    if (date.toDateString() == new Date().toDateString()) {
+				var m = date.getMinutes()
+				if (m<10) { m = '0'+m }
+				li.find(".time").text(date.getHours()+":"+m)
+			    }
+			    else {
+				li.find(".time").text(date.getDate()+"."+(date.getMonth()+1)+".")
+			    }
+			    $("ul.messages").append(li)
+			    //alert(item.subject)
+			} )
+		    }
+		}
+		
+	</script>
+
+
+	<script src="https://hp.timg.cz/js/top-bar-user-2013.js?1605061396" async></script>
+
+	<div class="page-wrap">
+		<div class="box-offer box-offer-ld-top btitle-right">
+			
+				
+	<!-- iBILLBOARD Ad Server one2many Pozice: go.cz.bbelements.com Tiscali.cz(18059) / HP(1) / 09 Leaderboard horní ((1) / 09 Leaderboard horní 998x200(9)-->
+<div id='bmone2n-18059.1.1.9'><noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/18059/1/1/9/'><img src='http://go.cz.bbelements.com/please/showit/18059/1/1/9/?typkodu=img&keywords=' style='border-width:0' alt='' /></a></div></noscript></div>
+
+			
+		</div>
+		<div class="box-offer skycraper hide-touch">
+			<div class="pos-out">
+				<div class="pos-sky">
+					
+
+				</div>
+			</div>
+		</div>
+
+		<div class="page-in-wrap">
+			<div class="main">
+				<div class="header" role="banner">
+					<div class="header-left-side">
+						<div class="logo-helper"></div>
+						
+	<h1 class="title">
+		<a class="logo" title="tiscali.cz" href="http://tiscali.cz" data-ga-category="navigation" data-ga-action="hlavicka-logo">
+			
+			<img height="50" src="https://hp.timg.cz/img/logo/hp-tiscali-logo.png" alt="tiscali.cz"/>
+			
+		</a>
+	</h1>
+	
+	
+
+					</div>
+					<div class="header-right-side">
+						<div class="hrs search">
+							<span class="h-info">
+								<span class="lower">Středa 11. listopadu 2020</span>, svátek má <a href="http://hledej.tiscali.cz/osobnosti/?q=Martin&amp;typeId=1">Martin</a>
+							</span>
+							<form role="search" action="//hledani.tiscali.cz/">
+								<input class="input-search ga-click" data-ga-category="navigation" data-ga-action="hledani" data-ga-label="oznaceni-pole" type="text" name="query" placeholder="Hledání google" title="Hledání google">
+								<button class="submit-search ga-click" type="submit" data-ga-category="navigation" data-ga-action="hledani" data-ga-label="hledat" title="Vyhledat"><span aria-hidden="true" class="pi picons-search"></span></button>
+								<div class="search-type">
+									<input type="hidden" name="cx" value="006688160405527839966:yhpefuwybre" />
+									<input type="hidden" name="cof" value="FORID:11" />
+									<input type="hidden" name="ie" value="utf-8" />
+									<input type="hidden" name="oe" value="utf-8" />
+									<input type="radio" name="lr" id="s-type-1" value="lang_cs" title="Hledání google" checked>
+									<label for="s-type-1">Hledání google</label>
+									<input type="radio" name="lr" id="s-type-2" value="zpravy" title="Hledání tiscali" >
+									<label for="s-type-2">Hledání tiscali</label>
+								</div>
+							</form>
+						</div>
+
+						
+							<div class="hrs weather">
+								<a data-ga-category="navigation" data-ga-action="pocasi" href="http://pocasi.tiscali.cz/">
+									<img src="https://hp.timg.cz/img/weather/07-night.png" alt="Zataženo" title="Středa: Zataženo" width="80" height="50" />
+									<span class="condition">Zataženo</span>
+									<span class="temp">7 °C / 4 °C</span>
+								</a>
+							</div>
+						
+					</div>
+				</div>
+
+				
+			</div>
+
+			
+			
+	<div class="main">
+		
+		
+		<div class="hp-lista-box">
+			<ul class="reset news hp-lista-bar">
+				<li>HLAVNÍ TÉMATA</li>
+				<li>
+					
+					<a href="https://zpravy.tiscali.cz/tag/koronavirus" title="Koronavirus" target="_blank" data-ga-category="navigation" data-ga-action="lista-clanky">Koronavirus</a>
+				</li><li>
+					<span class="bar-delimiter"></span>
+					<a href="https://zpravy.tiscali.cz/tag/zajimavosti-a-kuriozity" title="Zajímavosti a kuriozity" target="_blank" data-ga-category="navigation" data-ga-action="lista-clanky">Zajímavosti a kuriozity</a>
+				</li><li>
+					<span class="bar-delimiter"></span>
+					<a href="https://zpravy.tiscali.cz/tag/vynalez" title="Vynálezy a objevy" target="_blank" data-ga-category="navigation" data-ga-action="lista-clanky">Vynálezy a objevy</a>
+				</li><li>
+					<span class="bar-delimiter"></span>
+					<a href="https://zpravy.tiscali.cz/tag/dejiny-a-fakta" title="Dějiny a fakta" target="_blank" data-ga-category="navigation" data-ga-action="lista-clanky">Dějiny a fakta</a>
+				</li>
+			</ul>
+		</div>
+		
+
+		<div class="col-content no-borders" role="main">
+
+			
+			
+			<div class="top-box top-article">
+			       <a class="link" class="ga-click" data-ga-category="navigation" data-ga-action="poutak-1" title="Začne už Evropa konečně chránit své vnější hranice?" href="https://zpravy.tiscali.cz/zacne-uz-evropa-konecne-chranit-sve-vnejsi-hranice-491439">
+					<div class="wrap-header">
+						<h2 class="title ellipsis">
+							Začne už Evropa konečně chránit své vnější hranice?
+						</h2>
+					</div>
+					<div class="img">
+						<img width=652 height=367 src="https://im.tiscali.cz/press/2020/11/10/1235043-profimedia-0568326599-base_16x9.jpg.653?1605035024" alt="Emmanuel Macron a Angela Merkelová se při částečně virtuální schůzce kvůli terorismu vyslovili pro reformu Schengenu" />
+
+						
+						<div class="infos">
+							
+								<span>AKTUALITA</span>
+							
+						</div>
+						
+
+						
+							<span class="poutak-logo zpravy"></span>
+						
+
+					</div>
+				</a>
+				<p class="desc ellipsis-link">
+					Francouzský prezident Emmanuel Macron i německá kancléřka Angela Merkelová se ve světle nedávných teroristických útoků v několika evropských zemích vyslovili pro reformu unijního schengenského prostoru bez hraničních...
+					<a href="https://zpravy.tiscali.cz/zacne-uz-evropa-konecne-chranit-sve-vnejsi-hranice-491439" class="readmore" data-ga-category="navigation" data-ga-action="poutak-1">více</a>
+				</p>
+			</div>
+			
+			
+			<ul class="reset row no-borders">
+				
+	
+	
+		<li class="col-3 top-box top-articles">
+			<a title="Vláda požádá o prodloužení nouzového stavu, lockdown je slovem roku" class="link" data-ga-category="navigation" data-ga-action="poutak-2" title="Vláda požádá o prodloužení nouzového stavu, lockdown je slovem roku" href="https://zpravy.tiscali.cz/vlada-pozada-o-prodlouzeni-nouzoveho-stavu-lockdown-je-slovem-roku-499371">
+			<div class="wrap-header">
+				<h2 class="title ellipsis">
+					Vláda požádá o prodloužení nouzového stavu, lockdown je slovem roku
+				</h2>
+			</div>
+			<div class="img">
+				<img width=300 height=169 src="https://im.tiscali.cz/press/2020/11/10/1234859-profimedia-0565054467-base_16x9.jpg.313?1605015362" alt="Ilustrační snímek" />
+
+				
+					<div class="infos">
+						
+							<span>AKTUALITA</span>
+						
+							<span>AKTUALIZOVÁNO</span>
+						
+					</div>
+				
+				
+				
+					<span class="poutak-logo zpravy"></span>
+				
+			</div>
+			</a>
+			<p class="desc ellipsis-link">
+				Kvůli vývoji epidemie koronaviru bude vláda muset sněmovnu opět požádat o prodloužení nouzového stavu, uvedl vicepremiér a šéf Ústředního krizového štábu Jan Hamáček (ČSSD). Už dříve naznačil, že nouzový stav...
+				<a href="https://zpravy.tiscali.cz/vlada-pozada-o-prodlouzeni-nouzoveho-stavu-lockdown-je-slovem-roku-499371" data-ga-category="navigation" data-ga-action="poutak-2" class="readmore">více</a>
+			</p>
+		</li>
+	
+	
+				
+	
+	
+		<li class="col-3 top-box top-articles">
+			<a title="Emancipované pravěké ženy lovily zvěř po boku mužů" class="link" data-ga-category="navigation" data-ga-action="poutak-3" title="Emancipované pravěké ženy lovily zvěř po boku mužů" href="https://nedd.tiscali.cz/emancipovane-praveke-zeny-lovily-zver-po-boku-muzu-499296">
+			<div class="wrap-header">
+				<h2 class="title ellipsis">
+					Emancipované pravěké ženy lovily zvěř po boku mužů
+				</h2>
+			</div>
+			<div class="img">
+				<img width=300 height=169 src="https://im.tiscali.cz/nedd/2020/11/10/1234587-snimek-obrazovky-946-base_16x9.jpg.313?1604972391" alt="Pravěká žena lovící vicuny." />
+
+				
+					<div class="infos">
+						
+							<span>MAGAZÍN</span>
+						
+					</div>
+				
+				
+				
+					<span class="poutak-logo nedd"></span>
+				
+			</div>
+			</a>
+			<p class="desc ellipsis-link">
+				Ženská emancipace je starší, než si myslíme. Sahá přinejmenším do doby před devíti tisíci lety, kdy o feminismu ještě nikdo neměl potuchy.
+				<a href="https://nedd.tiscali.cz/emancipovane-praveke-zeny-lovily-zver-po-boku-muzu-499296" data-ga-category="navigation" data-ga-action="poutak-3" class="readmore">více</a>
+			</p>
+		</li>
+	
+	
+			</ul>
+			<ul class="reset common-lists">
+				
+			
+			
+			
+			
+
+			
+			<li class="std">
+				<h3 class="title">
+					<a data-ga-category="navigation" data-ga-action="clanky" title="Kancléř Mynář přestavěl vilu bez povolení; výši pokuty zapomněl" href="https://zpravy.tiscali.cz/kancler-mynar-prestavel-vilu-bez-povoleni-vysi-pokuty-zapomnel-499329">
+						
+						<span class="img">
+							<img width="214" height="120" src="https://im.tiscali.cz/press/2020/11/10/1234657-profimedia-0368340580-base_16x9.jpg.313?1604998431" alt="Strašnická vila Vratislava Mynáře (snímek z dubna 2018)">
+						</span>
+						
+							<strong class="ellipsis">Kancléř Mynář přestavěl vilu bez povolení; výši pokuty zapomněl</strong>
+						
+					</a>
+				</h3>
+				<p class="info">
+					
+					<span class="infos">
+						
+							
+						
+							
+						
+							
+						
+							
+								<strong>AKTUALITA</strong>
+							
+						
+					</span>
+					
+
+					<span class="date">10. 11. 2020 10:24</span> -
+
+					
+					<span class="category">
+						<a data-ga-category="navigation" data-ga-action="category" href="https://zpravy.tiscali.cz/aktuality">Aktuality</a>
+					</span>
+					
+
+					
+					- <a href="//diskuse.tiscali.cz/zpravy/clanek/kancler-mynar-prestavel-vilu-bez-povoleni-vysi-pokuty-zapomnel-499329/" class="discuss-link" title="Počet příspěvků v diskusi">
+						<span class="disc-bubble"></span>
+						<span id="zpravy_clanek_499329" class="disc-cnt">0</span>
+					</a>
+					
+
+				</p>
+				<p class="desc ellipsis-link">
+					Kancléř prezidenta republiky Vratislav Mynář porušil zákon při přestavbě své vily v Praze. Stavební úřad mu za to dal pokutu na dolní hranici sazby, která může činit až dva miliony korun, a Mynářovi vydal dodatečně k...
+					<a href="https://zpravy.tiscali.cz/kancler-mynar-prestavel-vilu-bez-povoleni-vysi-pokuty-zapomnel-499329" data-ga-category="navigation" data-ga-action="clanky" class="readmore">více</a>
+				</p>
+			</li>
+
+				
+				
+				<li>
+					<!-- iBILLBOARD Ad Server one2many Pozice: go.eu.bbelements.com Tiscali.cz(18059) / HP(1) / 07 Native(2) / Native(7)-->
+					<!-- HowTo: Place this code into the html page where the ad should appear. -->
+					<div id='bmone2n-18059.1.2.7'>
+					<noscript><div style='display:inline'><a href='https://go.eu.bbelements.com/please/redirect/18059/1/2/7/'><img src='https://go.eu.bbelements.com/please/showit/18059/1/2/7/?typkodu=img' style='border-width:0' alt='' /></a></div></noscript>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="col-side" role="complementary">
+			<div id="hp-email-login" class="no-logged" >
+				<form action="https://login.tiscali.cz/loginGo" method="POST" id="loginForm"> 
+					
+					<input type="hidden" name="hashId" value="" id="loginHashId">
+					<input type="hidden" name="cookTest" value="" id="loginCookTest">
+					<input type="hidden" name="url" value="">
+					<input type="hidden" name="service" value="email">
+
+					<div class="login">
+
+						<input class="login-inp" type="text" placeholder="uživatelské jméno" name="username">
+						
+						<select class="selectpicker" name="domain" tabindex="3" id="domain">
+							<option value="tiscali.cz" selected>@tiscali.cz</option>
+							<option value="wo.cz" >@wo.cz</option>
+							<option value="worldonline.cz" >@worldonline.cz</option>
+							<option value="worldmail.cz" >@worldmail.cz</option>
+							<option value="osobnosti.cz" >&nbsp; &nbsp; osobnosti.cz</option>
+						</select>
+						<input class="login-passw" type="password" placeholder="heslo" name="password">
+						<div class="login-button">
+							<a href="//login.tiscali.cz/facebook/link?service=tiscali" class="fb">Přihlášení přes Facebook</a>
+							<button type="submit" class="button inverted arrow right" value="Přihlásit">Přihlásit</button>
+						</div>
+						<div class="login-bottom">
+							<a href="//login.tiscali.cz/zapomenute-heslo/?service=tiscali">Nevím heslo</a>
+							<a href="http://reg.tiscali.cz/?service=tiscali">Registrovat</a>
+							<input id="remember" type="checkbox">
+							<label for="remember">Zapamatovat</label>
+						</div>
+						<div class="gdpr-lightbox">
+    <div class="loading-spinner"></div>
+    <div id="gdpr-general-conditions" class="text">
+        <input id="gdpr" type="hidden" name="gdpr" value="0"/>
+        <h3 class="mb-15">Upozornění pro registrované uživatele</h3>
+        <p class="mb-15">Změnili jsme naše <a href="https://reg.tiscali.cz/vop-policy" target="_blank">podmínky pro užívání služeb Tiscalimedia.cz a přidali jsme informace o zpracování osobních údajů Tiscalimedia.cz a.s</a>.</p>
+        <a href="javascript: void(0)" class="btn" id="btn-gdpr-next">Beru na vědomí</a>
+    </div>
+    <div id="gdpr-direct-mails" class="text">
+        <span></span><h3 class="mb-15">Podmínky</h3>
+        <p class="mb-15"><input type="checkbox" name="dm" id="dm" value="1"/>
+            <label for="dm">Souhlasím se <a href="https://reg.tiscali.cz/privacy-policy" target="_blank">zpracováním osobních údajů pro zasílání obchodních sdělení</a></label>
+        </p>
+        <a href="javascript: void(0)" class="btn" id="btn-gdpr-submit">Dokončit přihlášení</a>
+    </div>
+</div>
+
+<script>
+    function showGdpr(e) {
+        e.preventDefault();
+
+        $('.mobile-login-form').hide();
+        $('.gdpr-lightbox').show();
+        $('.gdpr-lightbox .loading-spinner').show();
+        $.post("https://login.tiscali.cz/ajax/gdpr-check", $('#loginForm').serialize())
+            .done(function(resolved) {
+                $('.gdpr-lightbox .loading-spinner').hide();
+                if (resolved) {
+                    submitGdpr();
+                    return;
+                }
+
+                $('#btn-gdpr-next').one('click', showGdprSubmit);
+                $('#gdpr-general-conditions').show();
+            })
+            .fail(function(err) {
+                $('.gdpr-lightbox').hide();
+                // nechame chybu vyprintit server
+                submitGdpr();
+            });
+    }
+
+    function showGdprSubmit(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        $("#gdpr").val(1);
+        $('#btn-gdpr-submit').one('click', submitGdpr);
+        $('#gdpr-general-conditions, #gdpr-direct-mails').toggle();
+    }
+
+    function submitGdpr(e) {
+        if (e) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+
+        $('#loginForm').off('submit', showGdpr);
+        $('#loginForm').submit();
+    }
+
+    $('#loginForm').on('submit', showGdpr);
+</script>
+					</div>
+				</form>
+			</div>
+
+			<div id="hp-email-message" style='display:none;'>
+				<p class="ubox-username"></p>
+				<a id="email-unread-msg" href="http://email.tiscali.cz/"><span class="email-unread-cnt">0</span> nových emailů</a>
+				<ul class="reset messages">
+					
+					
+				</ul>
+				<div class="hp-buttons">
+					<a class="button inverted" href="http://email.tiscali.cz/">Vstup do schránky</a>
+					<a class="button inverted" href="http://email.tiscali.cz/messageCompose">Napsat e-mail</a>
+				</div>
+			</div>
+			<div class="box-offer sticky" stickystop="square-top">
+				<div class="btitle-right">
+				<!-- iBILLBOARD Ad Server one2many Pozice: go.cz.bbelements.com Tiscali.cz(18059) / HP(1) / 15 Square horní(1) / 15 Square horní 300x300(15)-->
+<div id='bmone2n-18059.1.1.15'><noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/18059/1/1/15/'><img src='http://go.cz.bbelements.com/please/showit/18059/1/1/15/?typkodu=img&keywords=' style='border-width:0' alt='' /></a></div></noscript></div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="sticky-stop-square-top"></div>
+
+
+			<div class="main">
+				
+				
+
+	<div class="row videos" id="freegames-row" style="display: none;">
+		<h2 class="t-font"><a href="http://freegames.tiscali.cz/">freegames</a></h2>
+		<ul class="reset">
+			
+			<li class="video-item">
+				<a class="link" title="Zapomeňte na historii a přesedlejte do moderních strojů!" href="http://games.tiscali.cz/freegames/armored-warfare-16397" data-ga-category="ABtest" data-ga-action="freegames">
+					<div class="img">
+						<img width=216 height=122 src="https://im.tiscali.cz/freegames/2015/12/07/569162-332109-armored-warfare-1920x1080-214x120.jpg?1587596281" alt="Armored Warfare" />
+					</div>
+					<p class="desc ellipsis">
+						Zapomeňte na historii a přesedlejte do moderních strojů!
+					</p>
+				</a>
+			</li>
+			
+			<li class="video-item">
+				<a class="link" title="Zachraňte v roli anděla krásný fantasy svět od věčného zla." href="http://games.tiscali.cz/freegames/league-of-angels-ii-18279" data-ga-category="ABtest" data-ga-action="freegames">
+					<div class="img">
+						<img width=216 height=122 src="https://im.tiscali.cz/freegames/2016/08/18/684624-114743910-214x120.jpg?1587596281" alt="League of Angels II" />
+					</div>
+					<p class="desc ellipsis">
+						Zachraňte v roli anděla krásný fantasy svět od věčného zla.
+					</p>
+				</a>
+			</li>
+			
+			<li class="video-item">
+				<a class="link" title="Osvoboďte Evropu od nacistického Německa!" href="http://games.tiscali.cz/freegames/liberators-18651" data-ga-category="ABtest" data-ga-action="freegames">
+					<div class="img">
+						<img width=216 height=122 src="https://im.tiscali.cz/freegames/2016/08/18/684630-liberators-top-image-214x120.jpg?1587596281" alt="Liberators" />
+					</div>
+					<p class="desc ellipsis">
+						Osvoboďte Evropu od nacistického Německa!
+					</p>
+				</a>
+			</li>
+			
+			<li class="video-item">
+				<a class="link" title="Staňte se pravým králem!" href="https://games.tiscali.cz/freegames/goodgame-empire-16686" data-ga-category="ABtest" data-ga-action="freegames">
+					<div class="img">
+						<img width=216 height=122 src="https://im.tiscali.cz/freegames/2014/08/18/422983-goodgame-214x120.jpg?1587596281" alt="Goodgame Empire CZ" />
+					</div>
+					<p class="desc ellipsis">
+						Staňte se pravým králem!
+					</p>
+				</a>
+			</li>
+			
+		</ul>
+	</div>
+
+	
+	<ul class="reset row-other">
+		<li class="col-2 newest-articles">
+			
+			<h2 class="t-font">nejnovější články</h2>
+			<ul class="reset">
+				
+					<li><span class="date" title="10.11.2020">20:29</span><a title="Zelené jedovaté pasti na kočky, o kterých možná nevíte" href="https://www.moulik.cz/zdravi/zelene-jedovate-pasti-na-kocky-o-kterych-mozna-nevite-496517" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">Zelené jedovaté pasti na kočky, o kterých možná nevíte</a></li>
+				
+					<li><span class="date" title="10.11.2020">20:04</span><a title="Začne už Evropa konečně chránit své vnější hranice?" href="https://zpravy.tiscali.cz/zacne-uz-evropa-konecne-chranit-sve-vnejsi-hranice-491439" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">Začne už Evropa konečně chránit své vnější hranice?</a></li>
+				
+					<li><span class="date" title="10.11.2020">18:30</span><a title="Bright Memory – recenze glorifikované demoverze na novém Xboxu" href="https://games.tiscali.cz/recenze/bright-memory-recenze-glorifikovane-demoverze-na-novem-xboxu-499287" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">Bright Memory – recenze glorifikované demoverze na novém Xboxu</a></li>
+				
+					<li><span class="date" title="10.11.2020">17:30</span><a title="Season pass SnowRunnera vás vezme do Kanady za volanty dvou Caterpillarů" href="https://games.tiscali.cz/novinky/season-pass-snowrunnera-vas-vezme-do-kanady-za-volanty-dvou-caterpillaru-499379" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">Season pass SnowRunnera vás vezme do Kanady za volanty dvou Caterpillarů</a></li>
+				
+					<li><span class="date" title="10.11.2020">17:00</span><a title="GDS 2019: Dan Vávra – Co by měly školy učit, aby produkovaly schopné herní vývojáře?" href="https://games.tiscali.cz/video/gds-2019-dan-vavra-co-by-mely-skoly-ucit-aby-produkovaly-schopne-herni-vyvojare-499359" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">GDS 2019: Dan Vávra – Co by měly školy učit, aby produkovaly schopné herní vývojáře?</a></li>
+				
+					<li><span class="date" title="10.11.2020">16:20</span><a title="Destiny 2 dostává nové rozšíření. Co vše se změní?" href="https://games.tiscali.cz/novinky/destiny-2-dostava-nove-rozsireni-co-vse-se-zmeni-499355" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">Destiny 2 dostává nové rozšíření. Co vše se změní?</a></li>
+				
+					<li><span class="date" title="10.11.2020">16:00</span><a title="Cody Sun končí v 100 Thieves" href="https://www.profigamers.cz/zahranici/cody-sun-konci-v-100-thieves-499376" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">Cody Sun končí v 100 Thieves</a></li>
+				
+					<li><span class="date" title="10.11.2020">15:45</span><a title="Retro střílečka Prodeus vstupuje do předběžného přístupu" href="https://games.tiscali.cz/novinky/retro-strilecka-prodeus-vstupuje-do-predbezneho-pristupu-499332" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">Retro střílečka Prodeus vstupuje do předběžného přístupu</a></li>
+				
+					<li><span class="date" title="10.11.2020">15:21</span><a title="Vláda požádá o prodloužení nouzového stavu, lockdown je slovem roku" href="https://zpravy.tiscali.cz/vlada-pozada-o-prodlouzeni-nouzoveho-stavu-lockdown-je-slovem-roku-499371" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">Vláda požádá o prodloužení nouzového stavu, lockdown je slovem roku</a></li>
+				
+					<li><span class="date" title="10.11.2020">15:00</span><a title="GamesPlay – hrajeme Assassin’s Creed Valhalla" href="https://games.tiscali.cz/video/gamesplay-hrajeme-assassins-creed-valhalla-499368" data-ga-category="navigation" data-ga-action="nejnovejsi-clanky">GamesPlay – hrajeme Assassin’s Creed Valhalla</a></li>
+				
+			</ul>
+			
+		</li>
+		<li class="col-2 box-offer btitle-right">
+			<!-- iBILLBOARD Ad Server one2many Pozice: go.cz.bbelements.com Tiscali.cz(18059) / HP(1) / 13 Regtangle 480x300(1) / 13 Rectangle tiscali 480x300 645x300(13)-->
+<!-- HowTo: Place this code into the html page where the ad should appear. -->
+<div id='bmone2n-18059.1.1.13'>
+<noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/18059/1/1/13/'><img src='http://go.cz.bbelements.com/please/showit/18059/1/1/13/?typkodu=img' style='border-width:0' alt='' /></a></div></noscript>
+</div>
+		</li>
+	</ul>
+	
+	<div class="grid-wrap grid-top grid-bottom">
+		<div class="wrap-advert">
+			
+			<div class="box-offer sticky" stickystop="bigsquare">
+				<div class="btitle-right">
+				<div class="bs-hp">
+	
+	<!-- iBILLBOARD Ad Server one2many Pozice: go.cz.bbelements.com Tiscali.cz(18059) / HP(1) / 01 Bigsquare(1) / 01 Bigsquare 300x600(1)-->
+	<div id='bmone2n-18059.1.1.1' style="height: 600px;"><noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/18059/1/1/1/'><img src="http://go.cz.bbelements.com/please/showit/18059/1/1/1/?typkodu=img&keywords=" style='border-width:0' alt='' /></a></div></noscript></div>
+</div>
+				</div>
+			</div>
+		</div>
+
+		<ul class="reset row">
+			
+			<li class="col">
+				<h2 title="Aktuální zpravodajství" class="title">
+					<a href="http://zpravy.tiscali.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+						<img src="https://hp.timg.cz/img/logo/hp-zpravy-logo.png" alt="Zprávy Tiscali.cz" height="35"/>
+					</a>
+				</h2>
+
+				
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Nebe nad Českem rozzářil meteor, svítil jak Měsíc v úplňku" href="https://nedd.tiscali.cz/nebe-nad-ceskem-rozzaril-meteor-svitil-jak-mesic-v-uplnku-499365" class="imgborder">
+				<img src="https://im.tiscali.cz/nedd/2020/11/10/1234866-en081120-171102-106detail-16-9-u-base_16x9.jpg.313?1605015748" width="300" height="169" alt="Snímek meteoru z digitální bolidové kamery ve Frýdlantu v Čechách.">
+				<h3 class="title top ellipsis">Nebe nad Českem rozzářil meteor, svítil jak Měsíc v úplňku</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Demonstranti v Jerevanu protestovali proti ukončení války o Karabach" href="https://zpravy.tiscali.cz/demonstranti-v-jerevanu-protestovali-proti-ukonceni-valky-o-karabach-499353">
+				<h4 class="title ellipsis">Demonstranti v Jerevanu protestovali proti ukončení války o Karabach</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Havlíček: Český export na tom navzdory krizi není tak špatně" href="https://zpravy.tiscali.cz/havlicek-cesky-export-na-tom-navzdory-krizi-neni-tak-spatne-499346">
+				<h4 class="title ellipsis">Havlíček: Český export na tom navzdory krizi není tak špatně</h4>
+			</a>
+		
+	</div>
+	
+
+				<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="http://zpravy.tiscali.cz/">Více článků</a>
+			</li>
+
+			<li class="col">
+				<h2 class="title" title="Novinky ze světa vědy">
+					<a href="http://nedd.tiscali.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+						<img src="https://hp.timg.cz/img/logo/hp-nedd-logo.png" alt="Nedd.cz" height="35"/>
+					</a>
+				</h2>
+
+				
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Snílkovský hyperloop vezl první pasažéry (video)" href="https://nedd.tiscali.cz/snilkovsky-hyperloop-vezl-prvni-pasazery-video-499310" class="imgborder">
+				<img src="https://im.tiscali.cz/nedd/2020/11/10/1234581-hyperloop-base_16x9.jpg.313?1604968447" width="300" height="169" alt="Hyperloopová kapsle Virgin připravená k první jízdě s lidmi.">
+				<h3 class="title top ellipsis">Snílkovský hyperloop vezl první pasažéry (video)</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Vakcína od Pfizeru na covid zabírá, může se dostat do Česka" href="https://nedd.tiscali.cz/vakcina-od-pfizeru-na-covid-zabira-muze-se-dostat-do-ceska-499272">
+				<h4 class="title ellipsis">Vakcína od Pfizeru na covid zabírá, může se dostat do Česka</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Oteplování Země levně zastavíme sírou, tvrdí expert" href="https://nedd.tiscali.cz/oteplovani-zeme-levne-zastavime-sirou-tvrdi-expert-499078">
+				<h4 class="title ellipsis">Oteplování Země levně zastavíme sírou, tvrdí expert</h4>
+			</a>
+		
+	</div>
+	
+
+				<a class="button" data-ga-category="navigation" data-ga-action="box-vice" href="http://nedd.tiscali.cz/">Více článků</a>
+			</li>
+
+		</ul>
+
+		<ul class="reset row osobnosti">
+			
+			<li class="col shared">
+				<h2 class="title" title="Novinky ze světa celebrit">
+					<a href="http://www.osobnosti.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+						<img src="https://hp.timg.cz/img/logo/hp-osobnosti-logo.png" alt="Osobnosti.cz" height="35"/>
+					</a>
+				</h2>
+
+				
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Ryan Gosling, jeden z nejmladších herců, kteří kdy byli nominovaní na Oscara" href="https://magazin.osobnosti.cz/ryan-gosling-jeden-z-nejmladsich-hercu-kteri-kdy-byli-nominovani-na-oscara-320583" class="imgborder">
+				<img src="https://imagebox.cz.osobnosti.cz/magazin/2018/11/15/998132-ryan-gosling-313x176.jpg?1587596281" width="300" height="169" alt="Ryan Gosling">
+				<h3 class="title top ellipsis">Ryan Gosling, jeden z nejmladších herců, kteří kdy byli nominovaní na Oscara</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Zemřel akademik Rudolf Zahradník, mentor Angely Merkelové" href="https://zpravy.tiscali.cz/zemrel-akademik-rudolf-zahradnik-mentor-angely-merkelove-498777">
+				<h4 class="title ellipsis">Zemřel akademik Rudolf Zahradník, mentor Angely Merkelové</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Zemřel Sean Connery, první James Bond" href="https://zpravy.tiscali.cz/zemrel-sean-connery-prvni-james-bond-498768">
+				<h4 class="title ellipsis">Zemřel Sean Connery, první James Bond</h4>
+			</a>
+		
+	</div>
+	
+
+				<a class="button" data-ga-category="navigation" data-ga-action="box-vice" href="http://www.osobnosti.cz/">Více článků</a>
+			</li>
+
+			<li class="col">
+				<h3 title="Dnes mají narozeniny">Narozeniny dnes 11. 11.</h3>
+				<ul class="reset">
+					<li class="col-33">
+						
+						<a href="https://www.osobnosti.cz/leonardo-dicaprio.php" data-ga-category="navigation" data-ga-action="narozeniny">
+							<img src="https://imagebox.cz.osobnosti.cz/foto/leonardo-dicaprio/leonardo-dicaprio.jpg" alt="https://imagebox.cz.osobnosti.cz/foto/leonardo-dicaprio/leonardo-dicaprio.jpg" width="95" height="142">
+							Leonardo DiCaprio <span class="no-href">(46)</span>
+						</a>
+					</li>
+					<li class="col-33">
+						
+						<a href="https://www.osobnosti.cz/jan-kolenik.php" data-ga-category="navigation" data-ga-action="narozeniny">
+							<img src="https://imagebox.cz.osobnosti.cz/foto/jan-kolenik/jan-kolenik.jpg" alt="https://imagebox.cz.osobnosti.cz/foto/jan-kolenik/jan-kolenik.jpg" width="95" height="142">
+							Ján Koleník <span class="no-href">(41)</span>
+						</a>
+					</li>
+					<li class="col-33">
+						
+						<a href="https://www.osobnosti.cz/dana-syslova.php" data-ga-category="navigation" data-ga-action="narozeniny">
+							<img src="https://imagebox.cz.osobnosti.cz/foto/dana-syslova/dana-syslova.jpg" alt="https://imagebox.cz.osobnosti.cz/foto/dana-syslova/dana-syslova.jpg" width="95" height="142">
+							Dana Syslová <span class="no-href">(75)</span>
+						</a>
+					</li>
+					<li class="col-33">
+						
+						<a href="https://www.osobnosti.cz/demi-moore.php" data-ga-category="navigation" data-ga-action="narozeniny">
+							<img src="https://imagebox.cz.osobnosti.cz/foto/demi-moore/demi-moore.jpg" alt="https://imagebox.cz.osobnosti.cz/foto/demi-moore/demi-moore.jpg" width="95" height="142">
+							Demi Moore <span class="no-href">(58)</span>
+						</a>
+					</li>
+					<li class="col-33">
+						
+						<a href="https://www.osobnosti.cz/reina-tanaka.php" data-ga-category="navigation" data-ga-action="narozeniny">
+							<img src="https://imagebox.cz.osobnosti.cz/foto/reina-tanaka/reina-tanaka.jpg" alt="https://imagebox.cz.osobnosti.cz/foto/reina-tanaka/reina-tanaka.jpg" width="95" height="142">
+							Reina Tanaka <span class="no-href">(31)</span>
+						</a>
+					</li>
+					<li class="col-33">
+						
+						<a href="https://www.osobnosti.cz/sandra-rosova.php" data-ga-category="navigation" data-ga-action="narozeniny">
+							<img src="https://imagebox.cz.osobnosti.cz/foto/sandra-rosova/sandra-rosova.jpg" alt="https://imagebox.cz.osobnosti.cz/foto/sandra-rosova/sandra-rosova.jpg" width="95" height="142">
+							Sandra Rosová <span class="no-href">(28)</span>
+						</a>
+					</li>
+				</ul>
+				<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="http://narozeniny.osobnosti.cz/">Další narozeniny</a>
+			</li>
+		</ul>
+
+
+		<div class="row full-width mixed">
+			<ul class="reset">
+
+				
+				<li class="col col-3">
+					<h2 class="title" title="Český herní web: Hry pro PC, Xbox 360, PlayStation 3, Wii, DS, PSP a iPhone">
+						<a href="http://games.tiscali.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+							<img src="https://hp.timg.cz/img/logo/hp-games-logo.png" alt="Games.cz" height="35"/>
+						</a>
+					</h2>
+
+					
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Bright Memory – recenze glorifikované demoverze na novém Xboxu" href="https://games.tiscali.cz/recenze/bright-memory-recenze-glorifikovane-demoverze-na-novem-xboxu-499287" class="imgborder">
+				<img src="https://im.tiscali.cz/games/2020/03/26/1153292-bright-memory-313x176.jpg?1587596281" width="300" height="169" alt="Bright Memory – recenze glorifikované demoverze na novém Xboxu">
+				<h3 class="title top ellipsis">Bright Memory – recenze glorifikované demoverze na novém Xboxu</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Season pass SnowRunnera vás vezme do Kanady za volanty dvou Caterpillarů" href="https://games.tiscali.cz/novinky/season-pass-snowrunnera-vas-vezme-do-kanady-za-volanty-dvou-caterpillaru-499379">
+				<h4 class="title ellipsis">Season pass SnowRunnera vás vezme do Kanady za volanty dvou Caterpillarů</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="GDS 2019: Dan Vávra – Co by měly školy učit, aby produkovaly schopné herní vývojáře?" href="https://games.tiscali.cz/video/gds-2019-dan-vavra-co-by-mely-skoly-ucit-aby-produkovaly-schopne-herni-vyvojare-499359">
+				<h4 class="title ellipsis">GDS 2019: Dan Vávra – Co by měly školy učit, aby produkovaly schopné herní vývojáře?</h4>
+			</a>
+		
+	</div>
+	
+
+					<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="http://games.tiscali.cz/">Více článků</a>
+				</li>
+
+				
+				<li class="col col-3 shared dokina">
+					<h2 class="title" title="Filmové novinky a programy kin">
+						<a href="http://dokina.tiscali.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+							<img src="https://hp.timg.cz/img/logo/hp-dokina-logo.png" alt="Dokina.cz" height="35"/>
+						</a>
+					</h2>
+
+					
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Režiséři Avengers: Endgame představují svůj akční thriller Mosul" href="https://dokina.tiscali.cz/clanek/reziseri-avengers-endgame-predstavuji-svuj-akcni-thriller-mosul-499281" class="imgborder">
+				<img src="https://dokina.timg.cz/2020/11/09/1234506-mosul-poster-netflix-base_16x9.jpg.313?1604933259" width="300" height="169" alt="Režiséři Avengers: Endgame představují svůj akční thriller Mosul">
+				<h3 class="title top ellipsis">Režiséři Avengers: Endgame představují svůj akční thriller Mosul</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Jurský svět: Nadvláda hlásí hotovo" href="https://dokina.tiscali.cz/clanek/jursky-svet-nadvlada-hlasi-hotovo-499224">
+				<h4 class="title ellipsis">Jurský svět: Nadvláda hlásí hotovo</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Disney odsouvá své poslední dva velké letošní filmy: Free Guy a Smrt na Nilu" href="https://dokina.tiscali.cz/clanek/disney-odsouva-sve-posledni-dva-velke-letosni-filmy-free-guy-a-smrt-na-nilu-499125">
+				<h4 class="title ellipsis">Disney odsouvá své poslední dva velké letošní filmy: Free Guy a Smrt na Nilu</h4>
+			</a>
+		
+	</div>
+	
+
+					<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="http://dokina.tiscali.cz/">Více článků</a>
+				</li>
+
+				<li class="col col-3 dokina">
+					<div class="thumb-list">
+						<h3>Nadcházející premiéry</h3>
+						<ul class="reset">
+						
+							<li>
+								<a href="https://dokina.tiscali.cz/film/maxinozka-2-15218999" data-ga-category="navigation" data-ga-action="box-premiery">
+									<img src="https://img.osobnosti.cz/film/3931821-bigfoot-family/S-bigfoot-family.jpg"  width="28" height="42" title="">
+									<h4 class="ellipsis">Maxinožka 2</h4>
+									<p class="r">5.11.</p>
+								</a>
+							</li>
+						
+							<li>
+								<a href="https://dokina.tiscali.cz/film/boze-ty-ses-hajzl-15218997" data-ga-category="navigation" data-ga-action="box-premiery">
+									<img src="https://img.osobnosti.cz/film/4052438-god-you-re-such-a-prick/S-god-you-re-such-a-prick.jpg"  width="28" height="42" title="">
+									<h4 class="ellipsis">Bože, ty seš hajzl</h4>
+									<p class="r">5.11.</p>
+								</a>
+							</li>
+						
+							<li>
+								<a href="https://dokina.tiscali.cz/film/draci-zeme-14392511" data-ga-category="navigation" data-ga-action="box-premiery">
+									<img src="https://img.osobnosti.cz/film/3179815-dragon-rider/S-dragon-rider.jpg"  width="28" height="42" title="">
+									<h4 class="ellipsis">Dračí země</h4>
+									<p class="r">12.11.</p>
+								</a>
+							</li>
+						
+							<li>
+								<a href="https://dokina.tiscali.cz/film/frem-14116516" data-ga-category="navigation" data-ga-action="box-premiery">
+									<img src="https://img.osobnosti.cz/film/3890808-frem/S-frem.jpg"  width="28" height="42" title="">
+									<h4 class="ellipsis">FREM</h4>
+									<p class="r">12.11.</p>
+								</a>
+							</li>
+						
+							<li>
+								<a href="https://dokina.tiscali.cz/film/last-and-first-men-15057205" data-ga-category="navigation" data-ga-action="box-premiery">
+									<img src="https://img.osobnosti.cz/film/3373116-b-last-and-first-men/S-b-last-and-first-men.jpg"  width="28" height="42" title="">
+									<h4 class="ellipsis">Last and First Men</h4>
+									<p class="r">19.11.</p>
+								</a>
+							</li>
+						
+							<li>
+								<a href="https://dokina.tiscali.cz/film/podfuk-za-vsechny-prachy-15493538" data-ga-category="navigation" data-ga-action="box-premiery">
+									<img src="https://img.osobnosti.cz/film/3589190-b-the-comeback-trail/S-b-the-comeback-trail.jpg"  width="28" height="42" title="">
+									<h4 class="ellipsis">Podfuk za všechny prachy</h4>
+									<p class="r">19.11.</p>
+								</a>
+							</li>
+						
+							<li>
+								<a href="https://dokina.tiscali.cz/film/witches-the-12123877" data-ga-category="navigation" data-ga-action="box-premiery">
+									<img src="https://img.osobnosti.cz/film/3485894-witches-the/S-witches-the.jpg"  width="28" height="42" title="">
+									<h4 class="ellipsis">Witches, The</h4>
+									<p class="r">19.11.</p>
+								</a>
+							</li>
+						
+						</ul>
+					</div>
+					<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="http://dokina.tiscali.cz/premiery">Další premiéry</a>
+				</li>
+			</ul>
+			<div id="sticky-stop-bigsquare"></div>
+		</div>
+
+		<ul class="reset row full-width">
+
+			
+			<li class="col col-3">
+				<h2 class="title" title="Srovnám ceny dodavatelů plynu a ukážu vám ty nejvýhodnější nabídky na trhu. Srovnejte si nabídky dle vaší spotřeby.">
+					<a href="http://srovnam.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+						<img src="https://hp.timg.cz/img/logo/hp-srovnam-logo.png" alt="Srovnání cen plynu dle spotřeby - srovnám.cz" height="35"/>
+					</a>
+				</h2>
+
+				
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Kteří dodavatelé energií zatím v roce 2020 bodují a kteří naopak nejvíce ztrácí?" href="https://srovnam.cz/clanky/kteri-dodavatele-energii-zatim-v-roce-2020-boduji-a-kteri-naopak-nejvice-ztraci" class="imgborder">
+				<img src="//im.tiscali.cz/hp/srovnam/kteri-dodavatele-energii-zatim-v-roce-2020-boduji-a-kteri-naopak-nejvice-ztraci_middle.jpg" width="300" height="169" alt="Kteří dodavatelé energií zatím v roce 2020 bodují a kteří naopak nejvíce ztrácí?">
+				<h3 class="title top ellipsis">Kteří dodavatelé energií zatím v roce 2020 bodují a kteří naopak nejvíce ztrácí?</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Hlas zákazníků: spokojenost s dodavateli energií" href="https://srovnam.cz/clanky/hlas-zakazniku-spokojenost-s-dodavateli-energii">
+				<h4 class="title ellipsis">Hlas zákazníků: spokojenost s dodavateli energií</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Blýská se v energetice na lepší časy?" href="https://srovnam.cz/clanky/blyska-se-v-energetice-na-lepsi-casy">
+				<h4 class="title ellipsis">Blýská se v energetice na lepší časy?</h4>
+			</a>
+		
+	</div>
+	
+
+				<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="http://srovnam.cz/clanky/">Více článků</a>
+			</li>
+
+			
+			<li class="col col-3">
+				<h2 class="title" title="Fights.cz">
+					<a href="https://www.fights.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+						<img src="https://hp.timg.cz/img/logo/logo_fights.svg" alt="Fights.cz" height="35" style="padding: 5px 0"/>
+					</a>
+				</h2>
+
+				
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Je duel McGregor vs Poirier v ohrožení? UFC se údajně stále nedohodla s Poirierem a uvažuje o jeho náhradě" href="https://www.fights.cz/ufc/je-duel-mcgregor-vs-poirier-v-ohrozeni-ufc-se-udajne-stale-nedohodla-s-poirierem-a-uvazuje-o-jeho-nahrade-499358" class="imgborder">
+				<img src="https://im.tiscali.cz/fights/2020/09/30/1221160-conor-mcgregor-vs-dustin-poirier-3-base_16x9.jpg.313?1601489555" width="300" height="169" alt="Je duel McGregor vs Poirier v ohrožení? UFC se údajně stále nedohodla s Poirierem a uvažuje o jeho náhradě">
+				<h3 class="title top ellipsis">Je duel McGregor vs Poirier v ohrožení? UFC se údajně stále nedohodla s Poirierem a uvažuje o jeho náhradě</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Amanda Nunes musí ze zdravotních důvodů odložit svůj prosincový zápas s Megan Anderson" href="https://www.fights.cz/ufc/amanda-nunes-musi-ze-zdravotnich-duvodu-odlozit-svuj-prosincovy-zapas-s-megan-anderson-499328">
+				<h4 class="title ellipsis">Amanda Nunes musí ze zdravotních důvodů odložit svůj prosincový zápas s Megan Anderson</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Paul Felder vzal zápas s Rafaelem dos Anjosem jen 5 dní před konáním. „Tohle jsou momenty, o kterých budu vyprávět svým vnukům,“ vzkázal „Irský drak“" href="https://www.fights.cz/ufc/paul-felder-vzal-zapas-s-rafaelem-dos-anjosem-jen-5-dni-pred-konanim-tohle-jsou-momenty-o-kterych-budu-vypravet-svym-vnukum-vzkazal-irsky-drak-499315">
+				<h4 class="title ellipsis">Paul Felder vzal zápas s Rafaelem dos Anjosem jen 5 dní před konáním. „Tohle jsou momenty, o kterých budu vyprávět svým vnukům,“ vzkázal „Irský drak“</h4>
+			</a>
+		
+	</div>
+	
+
+				<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="https://www.fights.cz/">Více článků</a>
+			</li>
+
+			
+			<li class="col col-3">
+				<h2 class="title" title="AmericanSports.cz">
+					<a href="https://www.americansports.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+						<img src="https://hp.timg.cz/img/logo/logo_as.svg" alt="AmericanSports.cz" height="35" style="padding: 5px 0"/>
+					</a>
+				</h2>
+
+				
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Nováček se snažil do hotelu propašovat dámskou návštěvu. Porušil tím karanténu a byl okamžitě propuštěn" href="https://www.americansports.cz/nfl/novacek-se-snazil-do-hotelu-propasovat-damskou-navstevu-porusil-tim-karantenu-a-byl-okamzite-propusten-494641" class="imgborder">
+				<img src="https://im.americansports.cz/2020/08/16/1205554-profimedia-0391111024-base_16x9.jpg.313?1597557307" width="300" height="169" alt="Kemah Siverand">
+				<h3 class="title top ellipsis">Nováček se snažil do hotelu propašovat dámskou návštěvu. Porušil tím karanténu a byl okamžitě propuštěn</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="&#34;Pokud nechtějí stát při hymně, ať nehrají vůbec,&#34; říká Donald Trump a označil hráče za pokrytce" href="https://www.americansports.cz/nfl/pokud-nechteji-stat-pri-hymne-at-nehraji-vubec-rika-donald-trump-a-oznacil-hrace-za-pokrytce-494539">
+				<h4 class="title ellipsis">&#34;Pokud nechtějí stát při hymně, ať nehrají vůbec,&#34; říká Donald Trump a označil hráče za pokrytce</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Hokejová bublina funguje na výbornou. NHL hlásí 7245 negativních výsledků na COVID-19" href="https://www.americansports.cz/nhl/hokejova-bublina-funguje-na-vybornou-nhl-hlasi-7245-negativnich-vysledku-na-covid-19-494414">
+				<h4 class="title ellipsis">Hokejová bublina funguje na výbornou. NHL hlásí 7245 negativních výsledků na COVID-19</h4>
+			</a>
+		
+	</div>
+	
+
+				<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="https://www.americansports.cz/">Více článků</a>
+			</li>
+
+		</ul>
+
+		<ul class="reset row full-width">
+
+			
+			<li class="col col-3">
+				<h2 class="title" title="Aktuální finanční zpravodajství">
+					<a href="http://www.nasepenize.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+						<img src="https://hp.timg.cz/img/logo-nasepenize.png" alt="nasepenize.cz" height="35"/>
+					</a>
+				</h2>
+
+				
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Pandemie koronaviru se krutě podepsala na víc než polovině evropských firem" href="https://www.nasepenize.cz/pandemie-koronaviru-se-krute-podepsala-na-vic-nez-polovine-evropskych-firem-499363" class="imgborder">
+				<img src="https://im.tiscali.cz/nasepenize/2020/11/10/1234856-profimedia-0487339058-base_16x9.jpg.313?1605012931" width="300" height="169" alt="Ilustrační snímek">
+				<h3 class="title top ellipsis">Pandemie koronaviru se krutě podepsala na víc než polovině evropských firem</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Jaké technologie se používají pro zabezpečení logistických center a jak je možné s mini ušetřit?" href="https://www.nasepenize.cz/jake-technologie-se-pouzivaji-pro-zabezpeceni-logistickych-center-a-jak-je-mozne-s-mini-usetrit-494206">
+				<h4 class="title ellipsis">Jaké technologie se používají pro zabezpečení logistických center a jak je možné s mini ušetřit?</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Výkup nemovitostí: Na co všechno se soustředit" href="https://www.nasepenize.cz/vykup-nemovitosti-na-co-vsechno-se-soustredit-493712">
+				<h4 class="title ellipsis">Výkup nemovitostí: Na co všechno se soustředit</h4>
+			</a>
+		
+	</div>
+	
+
+				<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="http://www.nasepenize.cz/">Více článků</a>
+			</li>
+
+			
+			<li class="col col-3">
+				<h2 class="title" title="Moulik.cz">
+					<a href="https://www.moulik.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+						<img src="https://hp.timg.cz/img/logo/logo_moulik.svg" alt="Moulik.cz" height="35" style="padding: 5px 0"/>
+					</a>
+				</h2>
+
+					
+	<div class="articles big-image">
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Zelené jedovaté pasti na kočky, o kterých možná nevíte" href="https://www.moulik.cz/zdravi/zelene-jedovate-pasti-na-kocky-o-kterych-mozna-nevite-496517" class="imgborder">
+				<img src="https://im.moulik.cz/2020/10/09/1223268-cat-4402900_1920-base_16x9.jpg.313?1602194429" width="300" height="169" alt="Břečťan může kočce způsobit křeče v břiše, které ji úplně ochromí bolestí">
+				<h3 class="title top ellipsis">Zelené jedovaté pasti na kočky, o kterých možná nevíte</h3>
+			</a>
+		
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Nejvíc sexy samec pražské zoo, gorilák Richard, slavil narozeniny" href="https://www.moulik.cz/zajimavosti/nejvic-sexy-samec-prazske-zoo-gorilak-richard-slavil-narozeniny-499300">
+				<h4 class="title ellipsis">Nejvíc sexy samec pražské zoo, gorilák Richard, slavil narozeniny</h4>
+			</a>
+		
+			<a data-ga-category="navigation" data-ga-action="box-clanky" title="Doorkins Magnificat – kostelní kočka, která se dočkala vzpomínkové mše" href="https://www.moulik.cz/zajimavosti/doorkins-magnificat-kostelni-kocka-ktera-se-dockala-vzpominkove-mse-499191">
+				<h4 class="title ellipsis">Doorkins Magnificat – kostelní kočka, která se dočkala vzpomínkové mše</h4>
+			</a>
+		
+	</div>
+	
+
+				<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="https://www.moulik.cz/">Více článků</a>
+			</li>
+
+			
+			<li class="col col-3">
+				<h2 class="title" title="Nejrozsáhlejší komunita kapel, DJs, MCs a jejich fanoušků na českém internetu.">
+					<a href="http://karaoketexty.cz/" data-ga-category="navigation" data-ga-action="box-logo">
+						<img src="https://hp.timg.cz/img/logo/hp-karaoketexty-logo.png" alt="Karaoketexty.cz" height="35"/>
+					</a>
+				</h2>
+
+				<div class="articles list karaoketexty">
+					<ul class="reset">
+						
+						
+							
+							<li>
+								<a title="Lojza a Líza - (Michal Tučný)" href="https://www.karaoketexty.cz/texty-pisni/michal-tucny/lojza-a-liza-3023" class="imgborder" data-ga-category="navigation" data-ga-action="box-band">
+								       <img src="//im.tiscali.cz/hp/karaoketexty/lojza-a-liza-michal-tucny_small.jpg" width="112" height="63" title="Lojza a Líza - (Michal Tučný)" alt="Lojza a Líza - (Michal Tučný)">
+								</a>
+								
+								<a href="https://www.karaoketexty.cz/texty-pisni/michal-tucny/lojza-a-liza-3023">
+									<span class="bz-top">Lojza a Líza - (Michal Tučný)</span>
+									<span class="play">Detail</span>
+								</a>
+							</li>
+							
+							<li>
+								<a title="Recovery - (James Arthur)" href="https://www.karaoketexty.cz/texty-pisni/james-arthur/recovery-547148" class="imgborder" data-ga-category="navigation" data-ga-action="box-band">
+								       <img src="//im.tiscali.cz/hp/karaoketexty/recovery-james-arthur_small.jpg" width="112" height="63" title="Recovery - (James Arthur)" alt="Recovery - (James Arthur)">
+								</a>
+								
+								<a href="https://www.karaoketexty.cz/texty-pisni/james-arthur/recovery-547148">
+									<span class="bz-top">Recovery - (James Arthur)</span>
+									<span class="play">Detail</span>
+								</a>
+							</li>
+							
+							<li>
+								<a title="Lonely (with benny blanco) - (Justin Bieber)" href="https://www.karaoketexty.cz/texty-pisni/justin-bieber/lonely-with-benny-blanco-1001223" class="imgborder" data-ga-category="navigation" data-ga-action="box-band">
+								       <img src="//im.tiscali.cz/hp/karaoketexty/lonely-with-benny-blanco-justin-bieber_small.jpg" width="112" height="63" title="Lonely (with benny blanco) - (Justin Bieber)" alt="Lonely (with benny blanco) - (Justin Bieber)">
+								</a>
+								
+								<a href="https://www.karaoketexty.cz/texty-pisni/justin-bieber/lonely-with-benny-blanco-1001223">
+									<span class="bz-top">Lonely (with benny blanco) - (Justin Bieber)</span>
+									<span class="play">Detail</span>
+								</a>
+							</li>
+							
+							<li>
+								<a title="Tam za řekou (feat. Marek Lambora, Natália Germáni &amp; Cast) - (Tereza Mašková)" href="https://www.karaoketexty.cz/texty-pisni/tereza-maskova/tam-za-rekou-feat-marek-lambora-natalia-germani-cast-997152" class="imgborder" data-ga-category="navigation" data-ga-action="box-band">
+								       <img src="//im.tiscali.cz/hp/karaoketexty/tam-za-rekou-feat-marek-lambora-natalia-germani-cast-tereza-maskova_small.jpg" width="112" height="63" title="Tam za řekou (feat. Marek Lambora, Natália Germáni &amp; Cast) - (Tereza Mašková)" alt="Tam za řekou (feat. Marek Lambora, Natália Germáni &amp; Cast) - (Tereza Mašková)">
+								</a>
+								
+								<a href="https://www.karaoketexty.cz/texty-pisni/tereza-maskova/tam-za-rekou-feat-marek-lambora-natalia-germani-cast-997152">
+									<span class="bz-top">Tam za řekou (feat. Marek Lambora, Natália Germáni &amp; Cast) - (Tereza Mašková)</span>
+									<span class="play">Detail</span>
+								</a>
+							</li>
+							
+						
+					</ul>
+				</div>
+				<a data-ga-category="navigation" data-ga-action="box-vice" class="button" href="http://karaoketexty.cz/">Více písniček</a>
+			</li>
+
+		</ul>
+
+
+		
+		<div class="daily-ads">
+			<div class="daily-ads-content">
+				<div class="daily-top">
+					<span class="zodiac rak"></span>
+					<h3 class="title"><a href="http://horoskopy.tiscali.cz/horoskop/2018-06-09/rak/" target="_blank">rak</a></h3>
+					<span class="date">(22.6 - 22.7)</span>
+				</div>
+				<div class="daily-content">
+					<p class="ellipsis">     Po náročném týdnu si zasloužíte, abyste si něčím udělali radost. A tak si udělejte na sobotu program podle svého gusta. Pokud budete chtít zůstat celý den v pyžamu a mít zatažené žaluzie, klidně můžete. Chcete jít plavat? Jděte. Nebo prospěte den!
+    
+            </p>
+				</div>
+				<p><a class="bold" href="http://horoskopy.tiscali.cz/horoskop/2018-06-09/rak/" target="_blank">celý horoskop</a></p>
+				<strong>horoskop na:</strong> <br />
+				<p><a class="bold" href="http://horoskopy.tiscali.cz/horoskop/tyden/2018-23/rak" target="_blank">týden</a> | <a class="bold" href="http://horoskopy.tiscali.cz/horoskop/mesic/2018-06/rak" target="_blank">měsíc</a>
+				<a class="button big" href="http://horoskopy.tiscali.cz/" target="_blank">Zobrazit <br />všechna<br />znamení</a>
+				<div class="button daily-more">dnešní horoskop <span class="da-down">&#9660;</span><span class="da-up">&#9650;</span></div>
+			</div>
+		</div>
+		
+	</div>
+
+
+				
+				
+			</div>
+
+			<div id="sticky-stop-side-offer-wrap"></div>
+			<div class="main-bottom">
+				
+				
+
+				
+				
+			</div>
+
+			<div id="sticky-stop"></div>
+
+			<div class="box-offer box-offer-ld btitle-right">
+				<!-- iBILLBOARD Ad Server one2many Pozice: go.cz.bbelements.com Tiscali.cz(18059) / HP(1) / 10 Leaderboard spodní(1) / 10 Leaderboard spodní 998x200(10)-->
+<div id='bmone2n-18059.1.1.10'><noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/18059/1/1/10/'><img src='http://go.cz.bbelements.com/please/showit/18059/1/1/10/?typkodu=img&keywords=' style='border-width:0' alt='' /></a></div></noscript></div>
+
+			</div>
+		</div>
+	</div>
+
+	
+	<div class="footer-wrap" role="contentinfo">
+
+		<div class="footer">
+			<ul class="reset row">
+				
+					
+						
+	
+		<li class="col-4">
+			<h3 class="title">
+				<a class="logo" href="https://zpravy.tiscali.cz" data-ga-category="navigation" data-ga-action="paticka-odkaz">
+					<img src="https://hp.timg.cz/img/logo/hp-tiscali-logo.png" alt="tiscali.cz" height="25"/>
+				</a>
+			</h3>
+			<a data-ga-category="navigation" data-ga-action="paticka-clanky" title="Začne už Evropa konečně chránit své vnější hranice?" class="footer-img" href="https://zpravy.tiscali.cz/zacne-uz-evropa-konecne-chranit-sve-vnejsi-hranice-491439">
+				<img src="https://im.tiscali.cz/press/2020/11/10/1235043-profimedia-0568326599-base_16x9.jpg.313?1605035024" alt="Emmanuel Macron a Angela Merkelová se při částečně virtuální schůzce kvůli terorismu vyslovili pro reformu Schengenu" width="214"  height="120"/>
+				<p class="ellipsis">Začne už Evropa konečně chránit své vnější hranice?</p>
+			</a>
+		</li>
+	
+	
+					
+						
+	
+		<li class="col-4">
+			<h3 class="title">
+				<a class="logo" href="https://nedd.tiscali.cz" data-ga-category="navigation" data-ga-action="paticka-odkaz">
+					<img src="https://hp.timg.cz/img/logo/hp-nedd-logo.png" alt="nedd.cz" height="25"/>
+				</a>
+			</h3>
+			<a data-ga-category="navigation" data-ga-action="paticka-clanky" title="Nebe nad Českem rozzářil meteor, svítil jak Měsíc v úplňku" class="footer-img" href="https://nedd.tiscali.cz/nebe-nad-ceskem-rozzaril-meteor-svitil-jak-mesic-v-uplnku-499365">
+				<img src="https://im.tiscali.cz/nedd/2020/11/10/1234866-en081120-171102-106detail-16-9-u-base_16x9.jpg.313?1605015748" alt="Snímek meteoru z digitální bolidové kamery ve Frýdlantu v Čechách." width="214"  height="120"/>
+				<p class="ellipsis">Nebe nad Českem rozzářil meteor, svítil jak Měsíc v úplňku</p>
+			</a>
+		</li>
+	
+	
+					
+						
+	
+		<li class="col-4">
+			<h3 class="title">
+				<a class="logo" href="https://www.osobnosti.cz" data-ga-category="navigation" data-ga-action="paticka-odkaz">
+					<img src="https://hp.timg.cz/img/logo/hp-osobnosti-logo.png" alt="osobnosti.cz" height="25"/>
+				</a>
+			</h3>
+			<a data-ga-category="navigation" data-ga-action="paticka-clanky" title="Ryan Gosling, jeden z nejmladších herců, kteří kdy byli nominovaní na Oscara" class="footer-img" href="https://magazin.osobnosti.cz/ryan-gosling-jeden-z-nejmladsich-hercu-kteri-kdy-byli-nominovani-na-oscara-320583">
+				<img src="https://imagebox.cz.osobnosti.cz/magazin/2018/11/15/998132-ryan-gosling-313x176.jpg?1587596281" alt="Ryan Gosling" width="214"  height="120"/>
+				<p class="ellipsis">Ryan Gosling, jeden z nejmladších herců, kteří kdy byli nominovaní na Oscara</p>
+			</a>
+		</li>
+	
+	
+					
+						
+	
+		<li class="col-4">
+			<h3 class="title">
+				<a class="logo" href="https://games.tiscali.cz" data-ga-category="navigation" data-ga-action="paticka-odkaz">
+					<img src="https://hp.timg.cz/img/logo/hp-games-logo.png" alt="games.cz" height="25"/>
+				</a>
+			</h3>
+			<a data-ga-category="navigation" data-ga-action="paticka-clanky" title="Bright Memory – recenze glorifikované demoverze na novém Xboxu" class="footer-img" href="https://games.tiscali.cz/recenze/bright-memory-recenze-glorifikovane-demoverze-na-novem-xboxu-499287">
+				<img src="https://im.tiscali.cz/games/2020/03/26/1153292-bright-memory-313x176.jpg?1587596281" alt="Bright Memory – recenze glorifikované demoverze na novém Xboxu" width="214"  height="120"/>
+				<p class="ellipsis">Bright Memory – recenze glorifikované demoverze na novém Xboxu</p>
+			</a>
+		</li>
+	
+	
+					
+				
+			</ul>
+
+			
+	<div class="seo-box">
+		<div class="seo-img">
+			<a class="logo" href="http://tiscali.cz/" data-ga-category="navigation" data-ga-action="paticka-odkaz">
+					<img src="https://hp.timg.cz/img/logo/hp-tiscali-logo.png" alt="Tiscali.cz" width="120"/>
+			</a>
+		</div>
+		<p class="seo-text">
+			Tiscali.cz je český informační portál, na kterém najdete <a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://zpravy.tiscali.cz/" title="zprávy"><b>zprávy</b></a> z domova a ze světa,
+			<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://sport.tiscali.cz/" title="sport">sport</a>, <a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://finance.tiscali.cz" title="finance"><b>finance</b></a>, servis s předpovědí
+			<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://pocasi.tiscali.cz/" title="počasí"><i>počasí</i></a>, programy kin nebo horoskopy. Své místo na Tiscali.cz mají i novinky
+			z oblasti <a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://cestovani.tiscali.cz/" title="cestování">cestování</a>,
+			<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://games.tiscali.cz/" title="hry"><i>hry</i></a> a samozřejmě i <a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://firmy.tiscali.cz/" title="katalog firem">katalog firem</a>. Mezi oblíbené služby patří i
+			<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://email.tiscali.cz/" title="e-mail zdarma"><i>e-mail zdarma</i></a>, férový <a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://www.srovnam.cz/" title="srovnávač cen energií"><i>srovnávač cen energií srovnám.cz</i></a>
+			a magazín ze světa celebrit <a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://www.osobnosti.cz/" title="Osobnosti.cz">Osobnosti.cz</a>.
+		</p>
+	</div>
+
+		</div>
+		<div class="footer-bottom">
+			<div class="footer-bottom-in">
+				
+	<p>
+		&copy; 1996&ndash;2020 <a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://www.tiscalimedia.cz/">Tiscali Media, a.s.</a><br />
+		<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://www.tiscalimedia.cz/" title="o nás">o nás</a> |
+		<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://www.tiscalimedia.cz/kontakty" title="kontakt">kontakt</a> |
+		<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://www.tiscalimedia.cz/reklama/" title="reklama">reklama</a> |
+		<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="https://cache.tiscali.cz/47/12/1247_kodex_redakce.pdf" target="_blank" title="Kodex redakce">kodex redakce</a> |
+		<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://www.tiscali.cz/redakce/" title="redakce">redakce</a>
+	</p>
+	<ul class="reset footer-icons">
+		
+		<li class="rss">
+			<a class="v-center" data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://feeds.feedburner.com/tiscali-zpravy2?format=xml">RSS</a>
+		</li>
+		<li class="mobile">
+			<a data-ga-category="navigation" data-ga-action="paticka-odkaz" href="http://m.tiscali.cz/" onclick="document.cookie='mobile=on; expires=Thu, 2 Aug 2021 20:47:11 UTC; path=/;domain=.'+location.hostname;">mobilní<br /> verze</a>
+		</li>
+	</ul>
+
+			</div>
+		</div>
+	</div>
+
+	
+	
+	
+	<script src="https://hp.timg.cz/js/new-match-height.js"></script>
+
+	
+	<script>
+	function setLoginHash(data) {
+		$("#loginHashId").val(data.hashId)
+		$("#loginCookTest").val(data.cookTest)
+		if (data.sslDefault == 0) {
+			console.log("login SSL off")
+			$("#loginForm")[0].action = "//login.tiscali.cz";
+		}
+	}
+	</script>
+	<script src="https://login.tiscali.cz/ajax/hash?save=1" async></script>
+	<script type="text/javascript">
+	setTimeout(function(){var a=document.createElement("script");
+	var b=document.getElementsByTagName("script")[0];
+	a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0014/4781.js?"+Math.floor(new Date().getTime()/3600000);
+	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+	
+	<script src="//tiscali-cz.performax.cz/ut.js" async="true"></script>
+	
+
+
+    
+		<script src="//tiscali-cz.performax.cz/ut.js" async="true"></script>
+        
+        <script type="text/javascript">_satellite.pageBottom();</script>
+    
+
+	<script src="https://hp.timg.cz/js/jquery.fancybox.js"></script>
+	<script src="https://hp.timg.cz/js/jquery.ui.js"></script>
+	<script src="https://hp.timg.cz/js/new-jquery.dotdotdot.min.js"></script>
+	<script src="//platform.twitter.com/widgets.js"></script>
+
+	
+	<script src="//cms.tiscali.cz/js/cms.video.js?1605061396"></script>
+		<script src="https://hp.timg.cz/js/social/social-icons.js?1605061396"></script>
+		
+	<script src="//diskuse.tiscali.cz/js/disc.js?1605061396"></script>
+	<script> getAllDiscCnt(); </script>
+
+	<!--[if lte IE 8]>
+                <script src="https://hp.timg.cz/js/new-selectivizr.js"></script>
+        <![endif]-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mhayes-twentytwenty/1.0.0/js/jquery.event.move.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mhayes-twentytwenty/1.0.0/js/jquery.twentytwenty.js"></script>
+	<script src="https://hp.timg.cz/js/gaclick.js?1605061396"></script>
+	<script src="https://hp.timg.cz/js/new-app.js?1605061396"></script>
+
+	<div class="hide-touch">
+		
+	
+
+	</div>
+
+	
+	<!-- iBILLBOARD Ad Server one2many code -->
+<script src="//hp.timg.cz/js/bb-fix.js"></script>
+<script type='text/javascript' charset='utf-8' src='//go.cz.bbelements.com/bb/bb_one2n.js'></script>
+<style>.box-offer embed, .box-offer object, .box-offer iframe {vertical-align: middle;}</style>
+<script type='text/javascript'>/* <![CDATA[ */
+var bbkeywords=''; //fill in: 'key1;key2;..'
+bmone2n.addPosition('18059.1.1.1','');
+// kvuli SSL?
+//bmone2n.addPosition('18059.1.1.2','');
+//bmone2n.addPosition('18059.1.1.3','');
+bmone2n.addPosition('18059.1.1.4','');
+bmone2n.addPosition('18059.1.1.5','');
+bmone2n.addPosition('18059.1.1.9','');
+bmone2n.addPosition('18059.1.1.10','');
+bmone2n.addPosition('18059.1.1.13','');
+bmone2n.addPosition('18059.1.1.15','');
+bmone2n.addPosition('18059.1.2.7','');
+// kvuli SSL?
+//bmone2n.addPosition('18059.1.1.16','');
+bmone2n.getAd('go.cz.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'utf-8');
+/* ]]> */</script>
+<div id='bmone2t-18059.1.1.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.1.1'); /* ]]> */</script></div>
+<!--
+<div id='bmone2t-18059.1.1.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.1.2'); /* ]]> */</script></div>
+<div id='bmone2t-18059.1.1.3' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.1.3'); /* ]]> */</script></div>
+-->
+<div id='bmone2t-18059.1.1.4' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.1.4'); /* ]]> */</script></div>
+<div id='bmone2t-18059.1.1.5' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.1.5'); /* ]]> */</script></div>
+<div id='bmone2t-18059.1.1.9' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.1.9'); /* ]]> */</script></div>
+<div id='bmone2t-18059.1.1.10' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.1.10'); /* ]]> */</script></div>
+<div id='bmone2t-18059.1.1.13' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.1.13'); /* ]]> */</script></div>
+<div id='bmone2t-18059.1.1.15' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.1.15'); /* ]]> */</script></div>
+
+<div id='bmone2t-18059.1.2.7' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('18059.1.2.7'); /* ]]> */</script></div>
+
+
+	
+	
+		<script>
+		!function(n,t){"use strict";n=n&&n.hasOwnProperty("default")?n.default:n;var e,r,i=(t=t&&t.hasOwnProperty("default")?t.default:t).createElement.bind(t),o="auto".replace("u","")+"b",u=t.createElement("iframe");u.style.display="none",t.body.appendChild(u);var a=u.contentWindow.Math;t.body.removeChild(u);try{r=n.btoa,e=n[o]}catch(n){!function(){var n="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";function t(n){this.message=n}(t.prototype=new Error).name="InvalidCharacterError",r=function(e){for(var r,i,o=String(e),u=0,a=n,c="";o.charAt(0|u)||(a="=",u%1);c+=a.charAt(63&r>>8-u%1*8)){if(255<(i=o.charCodeAt(u+=.75)))throw new t("'bt oa' failed");r=r<<8|i}return c},e=function(e){var r=String(e).replace(/[=]+$/,"");if(r.length%4==1)throw new t("'at ob' failed");for(var i,o,u=0,a=0,c="";o=r.charAt(a++);~o&&(i=u%4?64*i+o:o,u++%4)?c+=String.fromCharCode(255&i>>(-2*u&6)):0)o=n.indexOf(o);return c}}()}var c=g("eicoko",443),f=p(e("dHMuZGVidWc9MQ=="))||p(e("dHNfbG9nPTE="))?console.log.bind(console,"[d]"):function(){};function l(n,e){var r=i(n||"div");return e&&(r.id=e,r.className=e),(t.body||t.head).appendChild(r),r}function s(n){n.parentNode.removeChild(n)}function m(n,t,e,r){var i="";r.t&&(i="domain=."+k(r.t)+";");var o=n+"=;expires="+h(-1)+";path=/;";d(o),d(o+"domain=."+location.hostname),d(o+"domain=."+k(2)),d(n+"="+t+"; "+i+" expires="+h(e||30)+"; path=/")}function d(n){t.cookie=n}function v(n,t){return a.floor(a.random()*(t-n+1))+n}function b(){return a.random().toString(36).replace(/[^a-z]+/g,"")}function h(n){var t=new Date;return t.setTime(t.getTime()+864e5*n),t.toUTCString()}function k(n){return location.hostname.split(".").slice(-n).join(".")}function p(n){return t[c].indexOf(n)>-1}function y(){try{var t=n.localStorage;return t&&t.getItem("tmp"),t}catch(n){return f("localStorage err"),null}}function w(n){if(n.i){e("eXdyZ2FweG5wcQ==");f(n.o+" on"),m(n.u,1,30,n),m(n.l,b()+n.s+b(),1,30),function(n){if(!p(n.m+"=")){var t=v(9e3,9e10);m(n.v,t,30,n),m(n.m,b(),1/24,n),f(n.v,t)}}(n)}else f(n.o+" off"),m(n.u,0,-1,n),m(n.l,0,-1,n),m(n.v,0,-1,n),m(n.m,0,-1,n);n.h&&!n.k&&m(n.p,v(1,100),1,n)}function _(n){f("elem test");var r=e("YmFubmVyIHNrbGlrIHJla2xhbXkgcHJvbW8tYm94IHNrbGlrUmVrbGFtYSBiYW5uZXItd3JhcHBlciBsZWFkZXIgYm1vbmUybiBhZHZfY29udGFpbmVyIGFkdnRvcA==")+" "+e("YWZzX2FkcyBza2xpay1hZHMgc2tsaWstYWQgcmVrbGFtYSBldGFyZ2V0UmVrbGFtYSBBZFRvcA=="),o=l("div");o.className=r,setTimeout((function(){o.offsetParent?function(n){f("net test");var r="script",o=[[e("Ly9zay5hZG9jZWFuLnBsL2ZpbGVzL2pzL2Fkby5qcw=="),r,!1],[e("Ly9nby5ldS5iYmVsZW1lbnRzLmNvbS9wbGVhc2UvY29kZQ=="),r,!1],[e("Ly9jei5zZWFyY2guZXRhcmdldG5ldC5jb20v"),r,!1]].sort((function(){return.5-a.random()})).slice(0,2),u=i("iframe");u.style.cssText="position:absolute;left:-20000px;width:1px;height:1px;top:-10px;",t.body.appendChild(u),function(n,t){var r=new XMLHttpRequest;r.open("GET",e("aHR0cHM6Ly9jZG4ucGVyZm9ybWF4LmN6L2Fkcw==")),r.onload=function(){200===r.status?(f("is Brave"),n._="Brave",n.G=!0,n.Z="net200",Z(n)):t()},r.onerror=function(){t()},r.send()}(n,(function e(){var r=o.pop();if(r){var a=r[0],c=r[1],l=r[2];f("net url",a),function(n,e,r,o,u){if(!n)return;var a=i(u=u||"script");a.onerror=function(t){f(u,"err",n),r(a),s(a)},a.onload=function(t){f(u,"loaded",n),e(a),s(a)},a.src=n,(o||t.body).appendChild(a)}(a,(function(){n.G=!1,Z(n)}),(function(){var t;0===((t=o)&&t.length||0)?(n.G=!0,n.Z="net",Z(n)):e()}),l&&u,c)}else f("net end")}))}(n):(f("blocked elem"),n.G=!0,n.Z="elem",Z(n)),s(o)}),n.g)}function G(n){return{had:n.W,has:n.G,by:n.Z,newState:n.i,segment:n.k,enforce:n.Y,plugin:n._,ver:"v0.1.990-1"}}function Z(n){var t=n.G;n.h&&n.k&&n.G&&n.k>n.h&&(f("segment off:",n.k,n.h),t=!1),null!==n.Y&&(f(n.o+" force",n.Y),n.i=n.Y),n.i=t,n.F(G(n)),f(n.W,"=>",n.i,n._),m(n.R,Number(n.i),30,n),1===n.L||(n.i||n.i!==n.W)&&addEventListener("beforeunload",()=>{w(n)}),n.H.main()}function g(n,t){var e=n.length;n=n.split("");for(var r=e-1;r>-1;r--){var i=(t-r+r*r)%e,o=n[r];n[r]=n[i],n[i]=o}return n.join("")}function W(n){var i=n.B,u=t.createElement.bind(t);var c,l=e("a3VudW51X211bA=="),m=(c=y())&&c.getItem(l+"_f")||n.M||c&&c.getItem(l)||n.N;this.skipMe=function(){if(t.head.io32)return void f("[k]","duplicity");t.head.io32=!0;var n=a.random();if(f("[k]","loader "+n+" > "+m/100),n>m/100&&(f("[k]","skip"),!i))return!0;f("[k]","noskip")}();var d=["aHR0cHM6Ly9kM2V5ZDk2MXdpMTBibC5jbG91ZGZyb250Lm5ldC9jc3MvYXJyb3cuY3Nz","aHR0cHM6Ly9kMWRhZW9uYnFjcTBvaC5jbG91ZGZyb250Lm5ldC9jc3MvYXJyb3cuY3Nz"];if(i||top.css_arrow){var v=top.css_arrow||"/css/arrow.css";d=[r(v),"L25vdC1mb3VuZA=="]}function b(e){var r,i,o,a=(r="kuarrow",o=u(i||"div"),r&&(o.id=r,o.className=r),(t.body||t.head).appendChild(o),o),c=getComputedStyle(a),m=c.backgroundImage;return function(n){f("[k]","set mul",n);var t=y();t&&t.setItem(l,n)}(Number(c.zIndex)||n.N),s(a),m}function h(t,r){var i=new Function(t),u={multiple:m,plugin:n._,arrow:r?r.target.href.match(/\/\/([^/]+)/)[1]:"inline_stat_js",ver:"v0.1.990-1",loader:n.L,loader_ver:n.V};u[e("aGFkQWRibG9jaw==")]=n.W,u[e("aGFzQWRibG9jaw==")]=n.G,u[o]=e,i.call(u)}function k(n){var t=b(),r=t&&t.match(/base64,([^"]+)"?\)/);r&&(f("[k]","call"),h(e(r[1]).split("HuGo")[1],n))}this.main=function(){if(top.stat_code)return h(top.stat_code);this.skipMe||function r(i){var o=d.shift();if(o){o=e(o)+"?"+n.S,f("[k]","create css",o);var a=u("link");a.rel="stylesheet",a.type="text/css",a.onload=function(n){f("[k]","css ok",o),i(n)},a.onerror=function(n){f("[k]","css error",a),r(i)},a.href=o,t.body.appendChild(a)}else f("[k]","css end")}(k)}}function Y(n){var e=n.j,r=t.createElement("div");r.className=g("-geaxetrls",e),r.innerHTML=g('>-<efafwaahoai c"o/<>p:ap.ura>"=/na. aatr"a"dmfe<z t<>hm=s.3s//hspt/h"="ru',e),t.body.appendChild(r),setTimeout((function(){var t=r.querySelectorAll("a");r.offsetParent||t[0].offsetParent||t[1].offsetParent||(f("is ublock"),n._="uBlock"),s(r)}),300)}function F(n){n._=n._||function(){var n=Object.getOwnPropertyDescriptor(HTMLFrameElement.prototype,"contentWindow");if(n&&n.get.toString().indexOf("injectIntoContentWindow")>-1)return f("is ABP"),"ABP"}()||function(){var n=l("div","ghostery-purple-box");if("2147483647"===getComputedStyle(n).zIndex)return f("is ghostery"),"Ghostery";s(n)}()||null}new function(n,r,i,o,u){if(f("start",this),!(navigator.userAgent.indexOf("MSIE")>-1)){try{n[e("YWRiRGV0ZWN0")]=this}catch(n){f("set window.adbDetect err",n)}var l,s,m={L:o.loader,V:o.ver,M:o.kununu_mul,N:5,B:n[e("YWRiX2RlYnVn")],o:e("YWRi"),S:3,t:0,u:e("YWRi"),l:(l=e("eXdyZ2FweG5wcQ=="),s=t[c].match(new RegExp("([^ =;]+)=[a-z]*"+l+"[a-z]*(;|$)")),s?(f("rand",s[1]),s[1]):b()),R:e("UEhQ"),p:e("YWRiLnNlZ21lbnQ="),v:e("YWRiLmtleQ=="),X:30*a.random(),s:e("eXdyZ2FweG5wcQ=="),G:null,Y:null,i:null,_:null,F:function(){},Z:null,j:443,h:0};m.m="_"+m.v,m.g=500+m.X,m.C=100+m.X,m.W=p(m.u+"=1")||p(m.l+"="+m.s)||p(m.R+"=1"),m.k=function(n){var e=t[c].match(new RegExp(n.p+"=(\\d+)"));return e&&Number(e[1])}(m),m.H=new W(m),m.L&&m.H.skipMe?f("loader skip"):(!function n(){r.body?i(d,500):i(n,200)}(),this.info=function(){return G(m)},this.callback=function(n){m.F=n},this.enforce=function(n){m.Y=n},this.percent=function(n){m.h=n})}function d(){Y(m),F(m),_(m)}}(n,t,setTimeout,n,443)}(window,document);
+		</script>
+	
+</body>
+</html>
+<!-- tiscali2 16 -->
