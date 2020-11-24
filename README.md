@@ -14,9 +14,9 @@
 ## 运行
 进入build目录，执行./LiuServerPro文件
 
-*cd build
+* cd build
 
-*./LiuServerPro
+* ./LiuServerPro
 
 ## 运用技术
 * 使用主从Reactor线程池模拟Proactor模式，reactor线程池充当Proactor的异步IO线程。
