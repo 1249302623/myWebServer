@@ -63,9 +63,9 @@ CMAKE_BINARY_DIR = /root/linux/myLinux/myWebServer/build
 # Target rules for target CMakeFiles/LiuServerPro.dir
 
 # All Build rule for target.
+CMakeFiles/LiuServerPro.dir/all: LiuServer/net/CMakeFiles/Netlib.dir/all
 CMakeFiles/LiuServerPro.dir/all: LiuServer/base/CMakeFiles/Baselib.dir/all
 CMakeFiles/LiuServerPro.dir/all: LiuServer/test/CMakeFiles/Testlib.dir/all
-CMakeFiles/LiuServerPro.dir/all: LiuServer/net/CMakeFiles/Netlib.dir/all
 	$(MAKE) -f CMakeFiles/LiuServerPro.dir/build.make CMakeFiles/LiuServerPro.dir/depend
 	$(MAKE) -f CMakeFiles/LiuServerPro.dir/build.make CMakeFiles/LiuServerPro.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/root/linux/myLinux/myWebServer/build/CMakeFiles --progress-num=12,13 "Built target LiuServerPro"
@@ -230,8 +230,8 @@ LiuServer/test/preinstall:
 # Target rules for target LiuServer/test/CMakeFiles/Testlib.dir
 
 # All Build rule for target.
-LiuServer/test/CMakeFiles/Testlib.dir/all: LiuServer/base/CMakeFiles/Baselib.dir/all
 LiuServer/test/CMakeFiles/Testlib.dir/all: LiuServer/net/CMakeFiles/Netlib.dir/all
+LiuServer/test/CMakeFiles/Testlib.dir/all: LiuServer/base/CMakeFiles/Baselib.dir/all
 	$(MAKE) -f LiuServer/test/CMakeFiles/Testlib.dir/build.make LiuServer/test/CMakeFiles/Testlib.dir/depend
 	$(MAKE) -f LiuServer/test/CMakeFiles/Testlib.dir/build.make LiuServer/test/CMakeFiles/Testlib.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/root/linux/myLinux/myWebServer/build/CMakeFiles --progress-num=30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48 "Built target Testlib"
