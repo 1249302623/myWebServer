@@ -13,6 +13,7 @@
 * 数据库：mysql
 ## 运行
 进入build目录，执行./LiuServerPro文件
+必须在build目录执行，否则无法正确识别HTML文件
 
 * cd build
 
