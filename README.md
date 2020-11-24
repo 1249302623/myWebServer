@@ -1,4 +1,4 @@
-# liuServer仿muduo库，多reactor模式模拟Proactor模式的C++高性能高并发HTTP服务器
+# 多reactor模式模拟Proactor模式的C++高性能高并发HTTP服务器
 
 ## 介绍 
 
