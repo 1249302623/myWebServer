@@ -64,8 +64,8 @@ CMAKE_BINARY_DIR = /root/linux/myLinux/myWebServer/build
 
 # All Build rule for target.
 CMakeFiles/LiuServerPro.dir/all: LiuServer/net/CMakeFiles/Netlib.dir/all
-CMakeFiles/LiuServerPro.dir/all: LiuServer/test/CMakeFiles/Testlib.dir/all
 CMakeFiles/LiuServerPro.dir/all: LiuServer/base/CMakeFiles/Baselib.dir/all
+CMakeFiles/LiuServerPro.dir/all: LiuServer/test/CMakeFiles/Testlib.dir/all
 	$(MAKE) -f CMakeFiles/LiuServerPro.dir/build.make CMakeFiles/LiuServerPro.dir/depend
 	$(MAKE) -f CMakeFiles/LiuServerPro.dir/build.make CMakeFiles/LiuServerPro.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/root/linux/myLinux/myWebServer/build/CMakeFiles --progress-num=12,13 "Built target LiuServerPro"
