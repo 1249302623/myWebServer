@@ -1,0 +1,1 @@
+g++   -g   CMakeFiles/LiuServerPro.dir/main.cpp.obj  -o LiuServerPro ../lib/libNetlib.a ../lib/libBaselib.a ../lib/libTestlib.a -lpthread -lmysqlclient ../lib/libNetlib.a ../lib/libBaselib.a -lpthread -lmysqlclient 

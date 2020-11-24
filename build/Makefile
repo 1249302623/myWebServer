@@ -162,14 +162,14 @@ Testlib/fast:
 	$(MAKE) -f LiuServer/test/CMakeFiles/Testlib.dir/build.make LiuServer/test/CMakeFiles/Testlib.dir/build
 .PHONY : Testlib/fast
 
-main.o: main.cpp.o
+main.obj: main.cpp.obj
 
-.PHONY : main.o
+.PHONY : main.obj
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/LiuServerPro.dir/build.make CMakeFiles/LiuServerPro.dir/main.cpp.o
-.PHONY : main.cpp.o
+main.cpp.obj:
+	$(MAKE) -f CMakeFiles/LiuServerPro.dir/build.make CMakeFiles/LiuServerPro.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
 main.i: main.cpp.i
 
@@ -201,7 +201,7 @@ help:
 	@echo "... Netlib"
 	@echo "... Baselib"
 	@echo "... Testlib"
-	@echo "... main.o"
+	@echo "... main.obj"
 	@echo "... main.i"
 	@echo "... main.s"
 .PHONY : help
