@@ -15,7 +15,6 @@ int main() {
     int connthreadNum=4,port=8080,workthreadNum=3,mysqlconnnum=5;
     Server myHTTPServer(&mainLoop, connthreadNum, port,workthreadNum,mysqlconnnum);
     myHTTPServer.start();
-
     //sqlPoolTest();
     //Buffer_test_main();
     //EvThread_test_main();

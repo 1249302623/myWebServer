@@ -1,1 +1,0 @@
-g++   -g -g  -rdynamic CMakeFiles/LiuServerPro.dir/main.cpp.o  -o LiuServerPro ../lib/libNetlib.a ../lib/libBaselib.a ../lib/libTestlib.a -lpthread -lmysqlclient ../lib/libNetlib.a ../lib/libBaselib.a -lpthread -lmysqlclient 
